@@ -1,0 +1,466 @@
+{"champions":
+    [
+    {
+        "name":"Twisted Fate",
+        "gold": "1",
+        "tier":"e",
+        "origin":"chrono",
+        "class":"sorcerer",
+        "image":"img/champion-box/1twistedfate.png",
+        "count":0
+        
+    },
+    {
+        "name":"Jarvan IV",
+        "gold": "1",
+        "tier":"d",
+        "origin":"dark-star",
+        "class":"protector",
+        "image":"img/champion-box/1jarvaniv.png",
+        "count":0
+    },
+    {
+        "name":"Kha'Zix",
+        "gold": "1",
+        "tier":"d",
+        "origin":"void",
+        "class":"infiltrator",
+        "image":"img/champion-box/1khazix.png",
+        "count":0
+    },
+    {
+        "name":"Zoe",
+        "gold": "1",
+        "tier":"d",
+        "origin":"star-guardian",
+        "class":"sorcerer",
+        "image":"img/champion-box/1zoe.png",
+        "count":0
+    },
+    {
+        "name":"Caitlyn",
+        "gold": "1",
+        "tier":"c",
+        "origin":"chrono",
+        "class":"sniper",
+        "image":"img/champion-box/1caitlyn.png",
+        "count":0
+    },
+    {
+        "name":"Leona",
+        "gold": "1",
+        "tier":"c",
+        "origin":"cybernetic",
+        "class":"vanguard",
+        "image":"img/champion-box/1leona.png",
+        "count":0
+    },
+    {
+        "name":"Malphite",
+        "gold": "1",
+        "tier":"c",
+        "origin":"rebel",
+        "class":"brawler",
+        "image":"img/champion-box/1malphite.png",
+        "count":0
+    },
+    {
+        "name":"Poppy",
+        "gold": "1",
+        "tier":"c",
+        "origin":"star-guardian",
+        "class":"vanguard",
+        "image":"img/champion-box/1poppy.png",
+        "count":0
+    },
+    {
+        "name":"Xayah",
+        "gold": "1",
+        "tier":"c",
+        "origin":"celestial",
+        "class":"blademaster",
+        "image":"img/champion-box/1xayah.png",
+        "count":0
+    },
+    {
+        "name":"Ziggs",
+        "gold": "1",
+        "tier":"c",
+        "origin":"rebel",
+        "class":"demolitionist",
+        "image":"img/champion-box/1ziggs.png",
+        "count":0
+    },
+    {
+        "name":"Fiora",
+        "gold": "1",
+        "tier":"b",
+        "origin":"cybernetic",
+        "class":"blademaster",
+        "image":"img/champion-box/1fiora.png",
+        "count":0
+    },
+    {
+        "name":"Graves",
+        "gold": "1",
+        "tier":"b",
+        "origin":"space-pirate",
+        "class":"blaster",
+        "image":"img/champion-box/1graves.png",
+        "count":0
+    },
+    {
+        "name":"Darius",
+        "gold": "2",
+        "tier":"c",
+        "origin":"space-pirate",
+        "class":"mana-reaver",
+        "image":"img/champion-box/2darius.png",
+        "count":0
+    },
+    {
+        "name":"Kaisa",
+        "gold": "2",
+        "tier":"c",
+        "origin":"valkyrie",
+        "class":"infiltrator",
+        "image":"img/champion-box/2kaisa.png",
+        "count":0
+    },
+    {
+        "name":"Morde",
+        "gold": "2",
+        "tier":"c",
+        "origin":"dark-star",
+        "class":"vanguard",
+        "image":"img/champion-box/2mordekaiser.png",
+        "count":0
+    },
+    {
+        "name":"Shen",
+        "gold": "2",
+        "tier":"c",
+        "origin":"chrono",
+        "class":"blademaster",
+        "image":"img/champion-box/2shen.png",
+        "count":0
+    },
+    {
+        "name":"Sona",
+        "gold": "2",
+        "tier":"c",
+        "origin":"rebel",
+        "class":"mystic",
+        "image":"img/champion-box/2sona.png",
+        "count":0
+    },
+    {
+        "name":"Ahri",
+        "gold": "2",
+        "tier":"b",
+        "origin":"star-guardian",
+        "class":"sorcerer",
+        "image":"img/champion-box/2ahri.png",
+        "count":0
+    },
+    {
+        "name":"Annie",
+        "gold": "2",
+        "tier":"b",
+        "origin":"mech-pilot",
+        "class":"sorcerer",
+        "image":"img/champion-box/2annie.png",
+        "count":0
+    },
+    {
+        "name":"Blitzcrank",
+        "gold": "2",
+        "tier":"b",
+        "origin":"chrono",
+        "class":"brawler",
+        "image":"img/champion-box/2blitzcrank.png",
+        "count":0
+    },
+    {
+        "name":"Rakan",
+        "gold": "2",
+        "tier":"b",
+        "origin":"celestial",
+        "class":"protector",
+        "image":"img/champion-box/2rakan.png",
+        "count":0
+    },
+    {
+        "name":"Yasuo",
+        "gold": "2",
+        "tier":"b",
+        "origin":"rebel",
+        "class":"blademaster",
+        "image":"img/champion-box/2yasuo.png",
+        "count":0
+    },
+    {
+        "name":"Lucian",
+        "gold": "2",
+        "tier":"a",
+        "origin":"cybernetic",
+        "class":"blaster",
+        "image":"img/champion-box/2lucian.png",
+        "count":0
+    },
+    {
+        "name":"Xinzhao",
+        "gold": "2",
+        "tier":"a",
+        "origin":"celestial",
+        "class":"protector",
+        "image":"img/champion-box/2xinzhao.png",
+        "count":0
+    },
+    {
+        "name":"Kassadin",
+        "gold": "3",
+        "tier":"e",
+        "origin":"celestial",
+        "class":"mana-reaver",
+        "image":"img/champion-box/3kassadin.png",
+        "count":0
+    },
+    {
+        "name":"Karma",
+        "gold": "3",
+        "tier":"d",
+        "origin":"dark-star",
+        "class":"mystic",
+        "image":"img/champion-box/3karma.png",
+        "count":0
+    },
+    {
+        "name":"Lux",
+        "gold": "3",
+        "tier":"c",
+        "origin":"dark-star",
+        "class":"sorcerer",
+        "image":"img/champion-box/3lux.png",
+        "count":0
+    },
+    {
+        "name":"Neeko",
+        "gold": "3",
+        "tier":"c",
+        "origin":"star-guardian",
+        "class":"protector",
+        "image":"img/champion-box/3neeko.png",
+        "count":0
+    },
+    {
+        "name":"Rumble",
+        "gold": "3",
+        "tier":"c",
+        "origin":"mech-pilot",
+        "class":"demolitionist",
+        "image":"img/champion-box/3rumble.png",
+        "count":0
+    },
+    {
+        "name":"Ashe",
+        "gold": "3",
+        "tier":"b",
+        "origin":"celestial",
+        "class":"sniper",
+        "image":"img/champion-box/3ashe.png",
+        "count":0
+    },
+    {
+        "name":"Master Yi",
+        "gold": "3",
+        "tier":"b",
+        "origin":"rebel",
+        "class":"blademaster",
+        "image":"img/champion-box/3masteryi.png",
+        "count":0
+    },
+    {
+        "name":"Syndra",
+        "gold": "3",
+        "tier":"b",
+        "origin":"star-guardian",
+        "class":"sorcerer",
+        "image":"img/champion-box/3syndra.png",
+        "count":0
+    },
+    {
+        "name":"Vi",
+        "gold": "3",
+        "tier":"b",
+        "origin":"cybernetic",
+        "class":"brawler",
+        "image":"img/champion-box/3vi.png",
+        "count":0
+    },
+    {
+        "name":"Ezreal",
+        "gold": "3",
+        "tier":"a",
+        "origin":"chrono",
+        "class":"blaster",
+        "image":"img/champion-box/3ezreal.png",
+        "count":0
+    },
+    {
+        "name":"Jayce",
+        "gold": "3",
+        "tier":"a",
+        "origin":"space-pirate",
+        "class":"vanguard",
+        "image":"img/champion-box/3jayce.png",
+        "count":0
+    },
+    {
+        "name":"Shaco",
+        "gold": "3",
+        "tier":"a",
+        "origin":"dark-star",
+        "class":"infiltrator",
+        "image":"img/champion-box/3shaco.png",
+        "count":0
+    },
+    {
+        "name":"Velkoz",
+        "gold": "4",
+        "tier":"d",
+        "origin":"void",
+        "class":"sorcerer",
+        "image":"img/champion-box/4velkoz.png",
+        "count":0
+    },
+    {
+        "name":"Fizz",
+        "gold": "4",
+        "tier":"b",
+        "origin":"mech-pilot",
+        "class":"infiltrator",
+        "image":"img/champion-box/4fizz.png",
+        "count":0
+    },
+    {
+        "name":"Jhin",
+        "gold": "4",
+        "tier":"b",
+        "origin":"dark-star",
+        "class":"sniper",
+        "image":"img/champion-box/4jhin.png",
+        "count":0
+    },
+    {
+        "name":"Soraka",
+        "gold": "4",
+        "tier":"b",
+        "origin":"star-guardian",
+        "class":"mystic",
+        "image":"img/champion-box/4soraka.png",
+        "count":0
+    },
+    {
+        "name":"Wukong",
+        "gold": "4",
+        "tier":"b",
+        "origin":"chrono",
+        "class":"vanguard",
+        "image":"img/champion-box/4wukong.png",
+        "count":0
+    },
+    {
+        "name":"Cho'Gath",
+        "gold": "4",
+        "tier":"a",
+        "origin":"void",
+        "class":"brawler",
+        "image":"img/champion-box/4chogat.png",
+        "count":0
+    },
+    {
+        "name":"Irelia",
+        "gold": "4",
+        "tier":"a",
+        "origin":"cybernetic",
+        "class":"blademaster",
+        "image":"img/champion-box/4irelia.png",
+        "count":0
+    },
+    {
+        "name":"Jinx",
+        "gold": "4",
+        "tier":"a",
+        "origin":"rebel",
+        "class":"blaster",
+        "image":"img/champion-box/4jinx.png",
+        "count":0
+    },
+    {
+        "name":"Kayle",
+        "gold": "4",
+        "tier":"c",
+        "origin":"valkyrie",
+        "class":"blademaster",
+        "image":"img/champion-box/4kayle.png",
+        "count":0
+    },
+    {
+        "name":"Thresh",
+        "gold": "5",
+        "tier":"a",
+        "origin":"chrono",
+        "class":"mana-reaver",
+        "image":"img/champion-box/5thresh.png",
+        "count":0
+    },
+    {
+        "name":"Aurelion Sol",
+        "gold": "5",
+        "tier":"s",
+        "origin":"rebel",
+        "class":"starship",
+        "image":"img/champion-box/5aurelionsol.png",
+        "count":0
+    },
+    {
+        "name":"Ekko",
+        "gold": "5",
+        "tier":"s",
+        "origin":"cybernetic",
+        "class":"infiltrator",
+        "image":"img/champion-box/5ekko.png",
+        "count":0
+    },
+    {
+        "name":"Gankplank",
+        "gold": "5",
+        "tier":"s",
+        "origin":"space-pirate",
+        "class":"demolitionist",
+        "image":"img/champion-box/5gankplank.png",
+        "count":0
+    },
+    {
+        "name":"Lulu",
+        "gold": "5",
+        "tier":"s",
+        "origin":"celestial",
+        "class":"mystic",
+        "image":"img/champion-box/5lulu.png",
+        "count":0
+    },
+    {
+        "name":"Miss Fortune",
+        "gold": "5",
+        "tier":"s",
+        "origin":"valkyrie",
+        "class":"blaster",
+        "image":"img/champion-box/5missfortune.png",
+        "count":0
+    }
+
+    ]
+    
+}

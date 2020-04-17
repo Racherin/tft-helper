@@ -1,0 +1,110 @@
+{"arena":[
+    {
+        "name" : "spot_1",
+        "x" : 1346,
+        "y" : 712,
+        "current_status" : "first_carousel_champ",
+        "owner" : "Kha'Zix"
+    },
+    {
+        "name" : "spot_2",
+        "x" : 1103,
+        "y" : 712,
+        "current_status" : "empty",
+        "owner" : "Caitlyn"
+    },
+    {
+        "name" : "spot_3",
+        "x" : 836,
+        "y" : 712,
+        "current_status" : "empty",
+        "owner" : "Twisted Fate"
+    },
+    {
+        "name" : "spot_4",
+        "x" : 1246,
+        "y" : 477,
+        "current_status" : "empty",
+        "owner" : "Vi"
+    },
+    {
+        "name" : "spot_5",
+        "x" : 1018,
+        "y" : 477,
+        "current_status" : "empty",
+        "owner" : "Blitzcrank"
+    },
+    {
+        "name" : "spot_6",
+        "x" : 792,
+        "y" : 477,
+        "current_status" : "empty",
+        "owner" : "Malphite"
+    },
+    {
+        "name" : "spot_7",
+        "x" : 566,
+        "y" : 471,
+        "current_status" : "empty",
+        "owner" : "Cho'Gath"
+    }
+
+],
+"desk":[
+    {
+        "name":"spot_1",
+        "x":431,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_2",
+        "x":540,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_3",
+        "x":660,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_4",
+        "x":800,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_5",
+        "x":903,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_6",
+        "x":1021,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_7",
+        "x":1147,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_8",
+        "x":1253,
+        "y":814,
+        "current_status":"empty"  
+    },
+    {
+        "name":"spot_9",
+        "x":1360,
+        "y":814,
+        "current_status":"empty"  
+    }
+
+    ]
+}
