@@ -2,8 +2,13 @@ from imagesearch import *
 from pyautogui import screenshot,getActiveWindow
 import sys,json
 from pynput.mouse import Button, Controller
+try:
+    from PIL import Image
+except ImportError:
+    import Image
+import pytesseract
 
-
+pytesseract.pytesseract.tesseract_cmd = r'C:\\Users\\merta\\AppData\\Local\\Tesseract-OCR\\tesseract.exe'
 mouse = Controller()
 
 with open('champions-info.json') as f :
@@ -83,10 +88,7 @@ def place_champs():
 def check_gold():
     print("Gold checking")
     screen_shot = region_grabber((0, 0, 2160, 1440))
-    for i in range(1,10):
-         im = imagesearcharea("img/gold/{}-gold.png".format(i), 0, 0, 1920, 1080, 0.9, screen_shot)
-         if im[0] != -1 :
-             return i
-    return "No gold data"
+    text = pytesseract.image_to_string('test.png', config='digits')
+    return text
 
-    
+def auto_roll()
