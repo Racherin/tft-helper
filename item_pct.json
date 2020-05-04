@@ -36,7 +36,8 @@
     "pick_rate": "0.87",
     "price": 2,
     "average_level": "2.20",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": null
   },
   "Annie": {
     "avg": "0.26",
@@ -75,7 +76,8 @@
     "pick_rate": "1.42",
     "price": 2,
     "average_level": "2.62",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "Ashe": {
     "avg": "0.68",
@@ -114,7 +116,8 @@
     "pick_rate": "2.75",
     "price": 3,
     "average_level": "1.92",
-    "average_placement": 3.8
+    "average_placement": 3.8,
+    "role": null
   },
   "AurelionSol": {
     "avg": "1.28",
@@ -153,7 +156,8 @@
     "pick_rate": "1.41",
     "price": 5,
     "average_level": "1.59",
-    "average_placement": 3.3
+    "average_placement": 3.3,
+    "role": null
   },
   "Blitzcrank": {
     "avg": "0.27",
@@ -192,7 +196,8 @@
     "pick_rate": "3.33",
     "price": 2,
     "average_level": "1.84",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "Caitlyn": {
     "avg": "1.30",
@@ -231,7 +236,8 @@
     "pick_rate": "0.21",
     "price": 1,
     "average_level": "2.23",
-    "average_placement": 4.2
+    "average_placement": 4.2,
+    "role": null
   },
   "ChoGath": {
     "avg": "1.40",
@@ -270,7 +276,8 @@
     "pick_rate": "2.78",
     "price": 4,
     "average_level": "1.99",
-    "average_placement": 3.5
+    "average_placement": 3.5,
+    "role": null
   },
   "Darius": {
     "avg": "1.89",
@@ -309,7 +316,8 @@
     "pick_rate": "0.77",
     "price": 2,
     "average_level": "2.68",
-    "average_placement": 4.1
+    "average_placement": 4.1,
+    "role": "Carry"
   },
   "Ekko": {
     "avg": "1.62",
@@ -348,7 +356,8 @@
     "pick_rate": "1.97",
     "price": 5,
     "average_level": "1.56",
-    "average_placement": 3.4
+    "average_placement": 3.4,
+    "role": "Carry"
   },
   "Ezreal": {
     "avg": "0.86",
@@ -387,7 +396,8 @@
     "pick_rate": "3.16",
     "price": 3,
     "average_level": "1.87",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "Fiora": {
     "avg": "0.98",
@@ -426,7 +436,8 @@
     "pick_rate": "1.97",
     "price": 1,
     "average_level": "1.84",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "Fizz": {
     "avg": "0.41",
@@ -465,7 +476,8 @@
     "pick_rate": "1.32",
     "price": 4,
     "average_level": "1.99",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "Gangplank": {
     "avg": "1.77",
@@ -504,7 +516,8 @@
     "pick_rate": "0.99",
     "price": 5,
     "average_level": "1.62",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": "Carry"
   },
   "Graves": {
     "avg": "0.34",
@@ -543,7 +556,8 @@
     "pick_rate": "1.76",
     "price": 1,
     "average_level": "1.84",
-    "average_placement": 3.8
+    "average_placement": 3.8,
+    "role": null
   },
   "Irelia": {
     "avg": "1.83",
@@ -582,7 +596,8 @@
     "pick_rate": "2.54",
     "price": 4,
     "average_level": "2.00",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": "Carry"
   },
   "JarvanIV": {
     "avg": "0.81",
@@ -621,7 +636,8 @@
     "pick_rate": "1.61",
     "price": 1,
     "average_level": "1.98",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": null
   },
   "Jayce": {
     "avg": "1.59",
@@ -660,7 +676,8 @@
     "pick_rate": "1.33",
     "price": 3,
     "average_level": "2.31",
-    "average_placement": 4.1
+    "average_placement": 4.1,
+    "role": "Carry"
   },
   "Jhin": {
     "avg": "1.75",
@@ -699,7 +716,8 @@
     "pick_rate": "2.38",
     "price": 4,
     "average_level": "1.99",
-    "average_placement": 3.5
+    "average_placement": 3.5,
+    "role": "Carry"
   },
   "Jinx": {
     "avg": "1.93",
@@ -738,7 +756,8 @@
     "pick_rate": "3.01",
     "price": 4,
     "average_level": "2.02",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": "Carry"
   },
   "KaiSa": {
     "avg": "1.88",
@@ -777,7 +796,8 @@
     "pick_rate": "1.43",
     "price": 2,
     "average_level": "2.59",
-    "average_placement": 3.9
+    "average_placement": 3.9,
+    "role": "Carry"
   },
   "Karma": {
     "avg": "0.56",
@@ -816,7 +836,8 @@
     "pick_rate": "2.35",
     "price": 3,
     "average_level": "1.92",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": null
   },
   "Kassadin": {
     "avg": "0.71",
@@ -855,7 +876,8 @@
     "pick_rate": "3.32",
     "price": 3,
     "average_level": "1.92",
-    "average_placement": 3.8
+    "average_placement": 3.8,
+    "role": null
   },
   "Kayle": {
     "avg": "1.48",
@@ -894,7 +916,8 @@
     "pick_rate": "3.49",
     "price": 4,
     "average_level": "1.83",
-    "average_placement": 3.3
+    "average_placement": 3.3,
+    "role": null
   },
   "KhaZix": {
     "avg": "0.97",
@@ -933,7 +956,8 @@
     "pick_rate": "1.43",
     "price": 1,
     "average_level": "2.08",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "Leona": {
     "avg": "1.02",
@@ -972,7 +996,8 @@
     "pick_rate": "2.36",
     "price": 1,
     "average_level": "1.98",
-    "average_placement": 3.8
+    "average_placement": 3.8,
+    "role": null
   },
   "Lucian": {
     "avg": "1.39",
@@ -1011,7 +1036,8 @@
     "pick_rate": "2.31",
     "price": 2,
     "average_level": "1.82",
-    "average_placement": 3.8
+    "average_placement": 3.8,
+    "role": null
   },
   "Lulu": {
     "avg": "0.76",
@@ -1050,7 +1076,8 @@
     "pick_rate": "3.30",
     "price": 5,
     "average_level": "1.49",
-    "average_placement": 3.0
+    "average_placement": 3.0,
+    "role": null
   },
   "Lux": {
     "avg": "0.56",
@@ -1089,7 +1116,8 @@
     "pick_rate": "3.33",
     "price": 3,
     "average_level": "1.85",
-    "average_placement": 3.4
+    "average_placement": 3.4,
+    "role": null
   },
   "Malphite": {
     "avg": "0.26",
@@ -1128,7 +1156,8 @@
     "pick_rate": "2.87",
     "price": 1,
     "average_level": "1.94",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "MasterYi": {
     "avg": "1.14",
@@ -1167,7 +1196,8 @@
     "pick_rate": "1.12",
     "price": 3,
     "average_level": "1.99",
-    "average_placement": 4.0
+    "average_placement": 4.0,
+    "role": null
   },
   "MissFortune": {
     "avg": "1.63",
@@ -1206,7 +1236,8 @@
     "pick_rate": "4.55",
     "price": 5,
     "average_level": "1.49",
-    "average_placement": 3.4
+    "average_placement": 3.4,
+    "role": "Carry"
   },
   "Mordekaiser": {
     "avg": "0.99",
@@ -1245,7 +1276,8 @@
     "pick_rate": "1.43",
     "price": 2,
     "average_level": "1.91",
-    "average_placement": 4.1
+    "average_placement": 4.1,
+    "role": null
   },
   "Poppy": {
     "avg": "1.68",
@@ -1284,7 +1316,8 @@
     "pick_rate": "1.13",
     "price": 1,
     "average_level": "2.58",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": "Carry"
   },
   "Rakan": {
     "avg": "1.40",
@@ -1323,7 +1356,8 @@
     "pick_rate": "0.96",
     "price": 2,
     "average_level": "2.50",
-    "average_placement": 3.9
+    "average_placement": 3.9,
+    "role": null
   },
   "Rumble": {
     "avg": "1.77",
@@ -1362,7 +1396,8 @@
     "pick_rate": "1.31",
     "price": 3,
     "average_level": "2.59",
-    "average_placement": 3.8
+    "average_placement": 3.8,
+    "role": "Carry"
   },
   "Shaco": {
     "avg": "1.58",
@@ -1401,7 +1436,8 @@
     "pick_rate": "2.32",
     "price": 3,
     "average_level": "2.11",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": "Carry"
   },
   "Shen": {
     "avg": "0.63",
@@ -1440,7 +1476,8 @@
     "pick_rate": "2.08",
     "price": 2,
     "average_level": "1.94",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   },
   "Sona": {
     "avg": "0.96",
@@ -1479,7 +1516,8 @@
     "pick_rate": "1.79",
     "price": 2,
     "average_level": "1.90",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": null
   },
   "Syndra": {
     "avg": "1.10",
@@ -1518,7 +1556,8 @@
     "pick_rate": "0.70",
     "price": 3,
     "average_level": "2.06",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": null
   },
   "Soraka": {
     "avg": "0.40",
@@ -1557,7 +1596,8 @@
     "pick_rate": "0.96",
     "price": 4,
     "average_level": "1.81",
-    "average_placement": 3.0
+    "average_placement": 3.0,
+    "role": null
   },
   "Thresh": {
     "avg": "0.59",
@@ -1596,7 +1636,8 @@
     "pick_rate": "2.61",
     "price": 5,
     "average_level": "1.50",
-    "average_placement": 3.1
+    "average_placement": 3.1,
+    "role": null
   },
   "TwistedFate": {
     "avg": "1.54",
@@ -1635,7 +1676,8 @@
     "pick_rate": "1.12",
     "price": 1,
     "average_level": "2.46",
-    "average_placement": 3.5
+    "average_placement": 3.5,
+    "role": "Carry"
   },
   "VelKoz": {
     "avg": "1.54",
@@ -1674,7 +1716,8 @@
     "pick_rate": "1.04",
     "price": 4,
     "average_level": "1.98",
-    "average_placement": 3.2
+    "average_placement": 3.2,
+    "role": "Carry"
   },
   "Vi": {
     "avg": "1.15",
@@ -1713,7 +1756,8 @@
     "pick_rate": "4.32",
     "price": 3,
     "average_level": "1.89",
-    "average_placement": 3.6
+    "average_placement": 3.6,
+    "role": null
   },
   "WuKong": {
     "avg": "1.11",
@@ -1752,7 +1796,8 @@
     "pick_rate": "2.81",
     "price": 4,
     "average_level": "1.86",
-    "average_placement": 3.5
+    "average_placement": 3.5,
+    "role": null
   },
   "Xayah": {
     "avg": "0.73",
@@ -1791,7 +1836,8 @@
     "pick_rate": "1.53",
     "price": 1,
     "average_level": "1.82",
-    "average_placement": 3.9
+    "average_placement": 3.9,
+    "role": null
   },
   "Xerath": {
     "avg": "1.68",
@@ -1830,7 +1876,8 @@
     "pick_rate": "2.27",
     "price": 5,
     "average_level": "1.60",
-    "average_placement": 3.1
+    "average_placement": 3.1,
+    "role": "Carry"
   },
   "XinZhao": {
     "avg": "1.33",
@@ -1869,7 +1916,8 @@
     "pick_rate": "0.88",
     "price": 2,
     "average_level": "2.58",
-    "average_placement": 3.9
+    "average_placement": 3.9,
+    "role": null
   },
   "Yasuo": {
     "avg": "1.01",
@@ -1908,7 +1956,8 @@
     "pick_rate": "1.01",
     "price": 2,
     "average_level": "2.05",
-    "average_placement": 3.9
+    "average_placement": 3.9,
+    "role": null
   },
   "Ziggs": {
     "avg": "0.34",
@@ -1947,7 +1996,8 @@
     "pick_rate": "0.83",
     "price": 1,
     "average_level": "1.69",
-    "average_placement": 3.9
+    "average_placement": 3.9,
+    "role": null
   },
   "Zoe": {
     "avg": "1.02",
@@ -1986,6 +2036,7 @@
     "pick_rate": "1.02",
     "price": 1,
     "average_level": "2.56",
-    "average_placement": 3.7
+    "average_placement": 3.7,
+    "role": null
   }
 }
