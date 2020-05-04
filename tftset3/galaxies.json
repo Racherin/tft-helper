@@ -1,0 +1,32 @@
+[
+  {
+    "key": "TFT3_GameVariation_BigLittleLegends",
+    "name": "Medium Legends",
+    "description": "Little Legends are bigger and have +25 starting health."
+  },
+  {
+    "key": "TFT3_GameVariation_FourCostFirstCarousel",
+    "name": "Lilac Nebula",
+    "description": "The first carousel contains only four cost units."
+  },
+  {
+    "key": "TFT3_GameVariation_FreeNeekos",
+    "name": "The Neekoverse",
+    "description": "Everyone gets two free copies of Neeko’s Help."
+  },
+  {
+    "key": "TFT3_GameVariation_FreeRerolls",
+    "name": "Trade Sector",
+    "description": "All players receive one free reroll per round. Free rerolls cannot be saved up."
+  },
+  {
+    "key": "TFT3_GameVariation_MidGameFoN",
+    "name": "Superdense Galaxy",
+    "description": "On reaching level 5, players receive a free Force of Nature."
+  },
+  {
+    "key": "TFT3_GameVariation_None",
+    "name": "Normal Game",
+    "description": "No special rules."
+  }
+]

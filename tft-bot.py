@@ -2,6 +2,7 @@ from imagesearch import *
 from pyautogui import screenshot,getActiveWindow
 import sys,json
 from pynput.mouse import Button, Controller
+import datetime
 try:
     from PIL import Image
 except ImportError:
@@ -86,9 +87,39 @@ def place_champs():
             pass
 
 def check_gold():
-    print("Gold checking")
-    screen_shot = region_grabber((0, 0, 2160, 1440))
-    text = pytesseract.image_to_string('test.png', config='digits')
-    return text
+    screen_shot= pyautogui.screenshot('gold.png',region=(868,918,40, 30))
+    text= pytesseract.image_to_string(screen_shot, config='--psm 6 -c tessedit_char_whitelist=0123456789')
+    if text != '' :
+        return int(text)
+    else :
+        return 'No gold data'
 
-def auto_roll()
+def check_round():
+    tft_round = 'not found'
+    rounds =['1-1','1-2','1-3','1-4','2-1','2-2','2-3','2-4']
+    for rd in rounds:
+        pos = imagesearch("img/rounds/{}.png".format(rd))
+        if pos[0] != -1:
+            tft_round = rd
+            return tft_round
+    return ('No round data')  
+
+def auto_roll(limit):
+    pass
+
+def check_level():
+    for i in range(2,9):
+        pos = imagesearch("img/levels/lvl{}.png".format(i),0.9)
+        if pos[0] != -1:
+                return i
+    return 'No level data'
+
+
+while True:
+    tft_round = check_round()
+    tft_gold = check_gold()
+    tft_level = check_level()
+    current_status ="Round : {}  Gold : {}  Level : {}".format(tft_round,tft_gold,tft_level)
+    print(current_status)
+    time.sleep(2)
+
