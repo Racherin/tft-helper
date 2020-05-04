@@ -594,8 +594,37 @@
     }
   },
   "KaiSa": {
-    "avg": "nan",
-    "items": {}
+    "avg": "1.88",
+    "items": {
+      "1": {
+        "item_id": 37,
+        "percentage": "22.94%"
+      },
+      "2": {
+        "item_id": 44,
+        "percentage": "18.11%"
+      },
+      "3": {
+        "item_id": 38,
+        "percentage": "15.43%"
+      },
+      "4": {
+        "item_id": 14,
+        "percentage": "6.22%"
+      },
+      "5": {
+        "item_id": 34,
+        "percentage": "5.68%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "3.64%"
+      },
+      "7": {
+        "item_id": 33,
+        "percentage": "3.32%"
+      }
+    }
   },
   "Karma": {
     "avg": "0.56",
@@ -1324,8 +1353,37 @@
     }
   },
   "VelKoz": {
-    "avg": "nan",
-    "items": {}
+    "avg": "1.53",
+    "items": {
+      "1": {
+        "item_id": 37,
+        "percentage": "17.11%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "8.43%"
+      },
+      "3": {
+        "item_id": 44,
+        "percentage": "7.95%"
+      },
+      "4": {
+        "item_id": 79,
+        "percentage": "7.71%"
+      },
+      "5": {
+        "item_id": 15,
+        "percentage": "6.51%"
+      },
+      "6": {
+        "item_id": 39,
+        "percentage": "6.27%"
+      },
+      "7": {
+        "item_id": 33,
+        "percentage": "6.27%"
+      }
+    }
   },
   "Vi": {
     "avg": "1.14",
