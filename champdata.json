@@ -1,0 +1,2249 @@
+{
+  "Ahri": {
+    "avg": "1.00",
+    "items": {
+      "1": {
+        "item_id": 46,
+        "percentage": "9.39%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "6.63%"
+      },
+      "3": {
+        "item_id": 99,
+        "percentage": "5.52%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "4.97%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "4.97%"
+      },
+      "6": {
+        "item_id": 44,
+        "percentage": "4.42%"
+      },
+      "7": {
+        "item_id": 14,
+        "percentage": "4.42%"
+      }
+    },
+    "win_rate": "23.26%",
+    "top_four_rate": "63.72%",
+    "pick_rate": "0.87",
+    "price": 2,
+    "average_level": "2.20",
+    "average_placement": 3.6,
+    "role": "-",
+    "traits": [
+      "starguardian",
+      "sorcerer"
+    ]
+  },
+  "Annie": {
+    "avg": "0.26",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "22.58%"
+      },
+      "2": {
+        "item_id": 27,
+        "percentage": "14.52%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "12.90%"
+      },
+      "4": {
+        "item_id": 25,
+        "percentage": "9.68%"
+      },
+      "5": {
+        "item_id": 79,
+        "percentage": "8.06%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "6.45%"
+      },
+      "7": {
+        "item_id": 77,
+        "percentage": "4.84%"
+      }
+    },
+    "win_rate": "19.60%",
+    "top_four_rate": "66.76%",
+    "pick_rate": "1.42",
+    "price": 2,
+    "average_level": "2.62",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "mechpilot",
+      "sorcerer"
+    ]
+  },
+  "Ashe": {
+    "avg": "0.68",
+    "items": {
+      "1": {
+        "item_id": 89,
+        "percentage": "15.66%"
+      },
+      "2": {
+        "item_id": 14,
+        "percentage": "9.62%"
+      },
+      "3": {
+        "item_id": 23,
+        "percentage": "7.42%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "4.95%"
+      },
+      "5": {
+        "item_id": 24,
+        "percentage": "4.67%"
+      },
+      "6": {
+        "item_id": 12,
+        "percentage": "4.40%"
+      },
+      "7": {
+        "item_id": 26,
+        "percentage": "3.85%"
+      }
+    },
+    "win_rate": "20.77%",
+    "top_four_rate": "64.36%",
+    "pick_rate": "2.75",
+    "price": 3,
+    "average_level": "1.92",
+    "average_placement": 3.8,
+    "role": "-",
+    "traits": [
+      "celestial",
+      "sniper"
+    ]
+  },
+  "AurelionSol": {
+    "avg": "1.28",
+    "items": {
+      "1": {
+        "item_id": 37,
+        "percentage": "12.24%"
+      },
+      "2": {
+        "item_id": 38,
+        "percentage": "11.09%"
+      },
+      "3": {
+        "item_id": 36,
+        "percentage": "8.31%"
+      },
+      "4": {
+        "item_id": 44,
+        "percentage": "8.08%"
+      },
+      "5": {
+        "item_id": 33,
+        "percentage": "7.62%"
+      },
+      "6": {
+        "item_id": 34,
+        "percentage": "5.77%"
+      },
+      "7": {
+        "item_id": 39,
+        "percentage": "5.08%"
+      }
+    },
+    "win_rate": "24.36%",
+    "top_four_rate": "70.77%",
+    "pick_rate": "1.41",
+    "price": 5,
+    "average_level": "1.59",
+    "average_placement": 3.3,
+    "role": "-",
+    "traits": [
+      "rebel",
+      "starship"
+    ]
+  },
+  "Blitzcrank": {
+    "avg": "0.27",
+    "items": {
+      "1": {
+        "item_id": 67,
+        "percentage": "43.35%"
+      },
+      "2": {
+        "item_id": 58,
+        "percentage": "9.85%"
+      },
+      "3": {
+        "item_id": 46,
+        "percentage": "6.40%"
+      },
+      "4": {
+        "item_id": 88,
+        "percentage": "3.45%"
+      },
+      "5": {
+        "item_id": 35,
+        "percentage": "3.45%"
+      },
+      "6": {
+        "item_id": 59,
+        "percentage": "2.96%"
+      },
+      "7": {
+        "item_id": 37,
+        "percentage": "2.46%"
+      }
+    },
+    "win_rate": "21.36%",
+    "top_four_rate": "64.44%",
+    "pick_rate": "3.33",
+    "price": 2,
+    "average_level": "1.84",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "chrono",
+      "brawler"
+    ]
+  },
+  "Caitlyn": {
+    "avg": "1.30",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "10.45%"
+      },
+      "2": {
+        "item_id": 26,
+        "percentage": "8.96%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "8.96%"
+      },
+      "4": {
+        "item_id": 29,
+        "percentage": "5.97%"
+      },
+      "5": {
+        "item_id": 69,
+        "percentage": "4.48%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "4.48%"
+      },
+      "7": {
+        "item_id": 12,
+        "percentage": "4.48%"
+      }
+    },
+    "win_rate": "19.23%",
+    "top_four_rate": "59.62%",
+    "pick_rate": "0.21",
+    "price": 1,
+    "average_level": "2.23",
+    "average_placement": 4.2,
+    "role": "-",
+    "traits": [
+      "chrono",
+      "sniper"
+    ]
+  },
+  "ChoGath": {
+    "avg": "1.40",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "11.10%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "6.72%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "6.01%"
+      },
+      "4": {
+        "item_id": 55,
+        "percentage": "4.99%"
+      },
+      "5": {
+        "item_id": 35,
+        "percentage": "4.68%"
+      },
+      "6": {
+        "item_id": 99,
+        "percentage": "4.58%"
+      },
+      "7": {
+        "item_id": 77,
+        "percentage": "3.97%"
+      }
+    },
+    "win_rate": "24.20%",
+    "top_four_rate": "66.18%",
+    "pick_rate": "2.78",
+    "price": 4,
+    "average_level": "1.99",
+    "average_placement": 3.5,
+    "role": "-",
+    "traits": [
+      "void",
+      "brawler"
+    ]
+  },
+  "Darius": {
+    "avg": "1.89",
+    "items": {
+      "1": {
+        "item_id": 33,
+        "percentage": "27.22%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "17.74%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "14.52%"
+      },
+      "4": {
+        "item_id": 69,
+        "percentage": "10.48%"
+      },
+      "5": {
+        "item_id": 39,
+        "percentage": "6.65%"
+      },
+      "6": {
+        "item_id": 78,
+        "percentage": "5.44%"
+      },
+      "7": {
+        "item_id": 79,
+        "percentage": "2.22%"
+      }
+    },
+    "win_rate": "18.95%",
+    "top_four_rate": "60.00%",
+    "pick_rate": "0.77",
+    "price": 2,
+    "average_level": "2.68",
+    "average_placement": 4.1,
+    "role": "Carry",
+    "traits": [
+      "spacepirate",
+      "manareaver"
+    ]
+  },
+  "Ekko": {
+    "avg": "1.62",
+    "items": {
+      "1": {
+        "item_id": 24,
+        "percentage": "7.78%"
+      },
+      "2": {
+        "item_id": 57,
+        "percentage": "7.56%"
+      },
+      "3": {
+        "item_id": 37,
+        "percentage": "5.70%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "5.04%"
+      },
+      "5": {
+        "item_id": 49,
+        "percentage": "4.49%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "4.27%"
+      },
+      "7": {
+        "item_id": 45,
+        "percentage": "3.72%"
+      }
+    },
+    "win_rate": "24.02%",
+    "top_four_rate": "71.25%",
+    "pick_rate": "1.97",
+    "price": 5,
+    "average_level": "1.56",
+    "average_placement": 3.4,
+    "role": "Carry",
+    "traits": [
+      "cybernetic",
+      "infiltrator"
+    ]
+  },
+  "Ezreal": {
+    "avg": "0.86",
+    "items": {
+      "1": {
+        "item_id": 57,
+        "percentage": "18.93%"
+      },
+      "2": {
+        "item_id": 17,
+        "percentage": "8.09%"
+      },
+      "3": {
+        "item_id": 56,
+        "percentage": "7.06%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "5.85%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "4.99%"
+      },
+      "6": {
+        "item_id": 29,
+        "percentage": "4.65%"
+      },
+      "7": {
+        "item_id": 19,
+        "percentage": "3.61%"
+      }
+    },
+    "win_rate": "18.67%",
+    "top_four_rate": "64.32%",
+    "pick_rate": "3.16",
+    "price": 3,
+    "average_level": "1.87",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "chrono",
+      "blaster"
+    ]
+  },
+  "Fiora": {
+    "avg": "0.98",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "14.81%"
+      },
+      "2": {
+        "item_id": 4,
+        "percentage": "9.87%"
+      },
+      "3": {
+        "item_id": 67,
+        "percentage": "7.51%"
+      },
+      "4": {
+        "item_id": 36,
+        "percentage": "6.22%"
+      },
+      "5": {
+        "item_id": 3,
+        "percentage": "5.15%"
+      },
+      "6": {
+        "item_id": 88,
+        "percentage": "5.15%"
+      },
+      "7": {
+        "item_id": 2,
+        "percentage": "4.72%"
+      }
+    },
+    "win_rate": "20.58%",
+    "top_four_rate": "65.84%",
+    "pick_rate": "1.97",
+    "price": 1,
+    "average_level": "1.84",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "cybernetic",
+      "blademaster"
+    ]
+  },
+  "Fizz": {
+    "avg": "0.41",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "24.18%"
+      },
+      "2": {
+        "item_id": 25,
+        "percentage": "17.58%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "8.79%"
+      },
+      "4": {
+        "item_id": 66,
+        "percentage": "7.69%"
+      },
+      "5": {
+        "item_id": 36,
+        "percentage": "5.49%"
+      },
+      "6": {
+        "item_id": 15,
+        "percentage": "5.49%"
+      },
+      "7": {
+        "item_id": 33,
+        "percentage": "3.30%"
+      }
+    },
+    "win_rate": "19.88%",
+    "top_four_rate": "67.89%",
+    "pick_rate": "1.32",
+    "price": 4,
+    "average_level": "1.99",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "mechpilot",
+      "infiltrator"
+    ]
+  },
+  "Gangplank": {
+    "avg": "1.77",
+    "items": {
+      "1": {
+        "item_id": 15,
+        "percentage": "19.45%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "11.56%"
+      },
+      "3": {
+        "item_id": 37,
+        "percentage": "5.87%"
+      },
+      "4": {
+        "item_id": 69,
+        "percentage": "5.32%"
+      },
+      "5": {
+        "item_id": 44,
+        "percentage": "4.59%"
+      },
+      "6": {
+        "item_id": 45,
+        "percentage": "3.85%"
+      },
+      "7": {
+        "item_id": 79,
+        "percentage": "3.85%"
+      }
+    },
+    "win_rate": "24.08%",
+    "top_four_rate": "66.53%",
+    "pick_rate": "0.99",
+    "price": 5,
+    "average_level": "1.62",
+    "average_placement": 3.6,
+    "role": "Carry",
+    "traits": [
+      "spacepirate",
+      "mercenary",
+      "demolitionist"
+    ]
+  },
+  "Graves": {
+    "avg": "0.34",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "12.90%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "12.10%"
+      },
+      "3": {
+        "item_id": 27,
+        "percentage": "7.26%"
+      },
+      "4": {
+        "item_id": 4,
+        "percentage": "6.45%"
+      },
+      "5": {
+        "item_id": 46,
+        "percentage": "5.65%"
+      },
+      "6": {
+        "item_id": 59,
+        "percentage": "4.03%"
+      },
+      "7": {
+        "item_id": 44,
+        "percentage": "4.03%"
+      }
+    },
+    "win_rate": "18.12%",
+    "top_four_rate": "62.84%",
+    "pick_rate": "1.76",
+    "price": 1,
+    "average_level": "1.84",
+    "average_placement": 3.8,
+    "role": "-",
+    "traits": [
+      "spacepirate",
+      "blaster"
+    ]
+  },
+  "Irelia": {
+    "avg": "1.83",
+    "items": {
+      "1": {
+        "item_id": 19,
+        "percentage": "37.17%"
+      },
+      "2": {
+        "item_id": 29,
+        "percentage": "15.23%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "8.38%"
+      },
+      "4": {
+        "item_id": 28,
+        "percentage": "5.52%"
+      },
+      "5": {
+        "item_id": 16,
+        "percentage": "4.12%"
+      },
+      "6": {
+        "item_id": 33,
+        "percentage": "3.79%"
+      },
+      "7": {
+        "item_id": 11,
+        "percentage": "2.73%"
+      }
+    },
+    "win_rate": "21.66%",
+    "top_four_rate": "66.08%",
+    "pick_rate": "2.54",
+    "price": 4,
+    "average_level": "2.00",
+    "average_placement": 3.6,
+    "role": "Carry",
+    "traits": [
+      "cybernetic",
+      "manareaver",
+      "blademaster"
+    ]
+  },
+  "JarvanIV": {
+    "avg": "0.81",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "25.09%"
+      },
+      "2": {
+        "item_id": 27,
+        "percentage": "20.73%"
+      },
+      "3": {
+        "item_id": 68,
+        "percentage": "5.82%"
+      },
+      "4": {
+        "item_id": 36,
+        "percentage": "5.45%"
+      },
+      "5": {
+        "item_id": 45,
+        "percentage": "5.45%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "4.00%"
+      },
+      "7": {
+        "item_id": 59,
+        "percentage": "3.64%"
+      }
+    },
+    "win_rate": "22.31%",
+    "top_four_rate": "65.91%",
+    "pick_rate": "1.61",
+    "price": 1,
+    "average_level": "1.98",
+    "average_placement": 3.6,
+    "role": "-",
+    "traits": [
+      "darkstar",
+      "protector"
+    ]
+  },
+  "Jayce": {
+    "avg": "1.59",
+    "items": {
+      "1": {
+        "item_id": 15,
+        "percentage": "9.19%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "7.11%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "5.20%"
+      },
+      "4": {
+        "item_id": 99,
+        "percentage": "5.03%"
+      },
+      "5": {
+        "item_id": 66,
+        "percentage": "4.33%"
+      },
+      "6": {
+        "item_id": 13,
+        "percentage": "4.33%"
+      },
+      "7": {
+        "item_id": 25,
+        "percentage": "4.33%"
+      }
+    },
+    "win_rate": "17.33%",
+    "top_four_rate": "58.66%",
+    "pick_rate": "1.33",
+    "price": 3,
+    "average_level": "2.31",
+    "average_placement": 4.1,
+    "role": "Carry",
+    "traits": [
+      "spacepirate",
+      "vanguard"
+    ]
+  },
+  "Jhin": {
+    "avg": "1.75",
+    "items": {
+      "1": {
+        "item_id": 26,
+        "percentage": "23.64%"
+      },
+      "2": {
+        "item_id": 15,
+        "percentage": "16.73%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "15.95%"
+      },
+      "4": {
+        "item_id": 19,
+        "percentage": "10.92%"
+      },
+      "5": {
+        "item_id": 29,
+        "percentage": "8.72%"
+      },
+      "6": {
+        "item_id": 11,
+        "percentage": "3.77%"
+      },
+      "7": {
+        "item_id": 69,
+        "percentage": "2.44%"
+      }
+    },
+    "win_rate": "22.58%",
+    "top_four_rate": "68.59%",
+    "pick_rate": "2.38",
+    "price": 4,
+    "average_level": "1.99",
+    "average_placement": 3.5,
+    "role": "Carry",
+    "traits": [
+      "darkstar",
+      "sniper"
+    ]
+  },
+  "Jinx": {
+    "avg": "1.93",
+    "items": {
+      "1": {
+        "item_id": 12,
+        "percentage": "30.27%"
+      },
+      "2": {
+        "item_id": 57,
+        "percentage": "18.68%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "11.25%"
+      },
+      "4": {
+        "item_id": 15,
+        "percentage": "9.39%"
+      },
+      "5": {
+        "item_id": 29,
+        "percentage": "5.09%"
+      },
+      "6": {
+        "item_id": 26,
+        "percentage": "4.94%"
+      },
+      "7": {
+        "item_id": 19,
+        "percentage": "3.72%"
+      }
+    },
+    "win_rate": "20.05%",
+    "top_four_rate": "62.99%",
+    "pick_rate": "3.01",
+    "price": 4,
+    "average_level": "2.02",
+    "average_placement": 3.7,
+    "role": "Carry",
+    "traits": [
+      "rebel",
+      "blaster"
+    ]
+  },
+  "KaiSa": {
+    "avg": "1.88",
+    "items": {
+      "1": {
+        "item_id": 37,
+        "percentage": "22.93%"
+      },
+      "2": {
+        "item_id": 44,
+        "percentage": "18.23%"
+      },
+      "3": {
+        "item_id": 38,
+        "percentage": "15.61%"
+      },
+      "4": {
+        "item_id": 14,
+        "percentage": "6.00%"
+      },
+      "5": {
+        "item_id": 34,
+        "percentage": "5.68%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "3.60%"
+      },
+      "7": {
+        "item_id": 33,
+        "percentage": "3.17%"
+      }
+    },
+    "win_rate": "18.36%",
+    "top_four_rate": "63.28%",
+    "pick_rate": "1.43",
+    "price": 2,
+    "average_level": "2.59",
+    "average_placement": 3.9,
+    "role": "Carry",
+    "traits": [
+      "valkyrie",
+      "infiltrator"
+    ]
+  },
+  "Karma": {
+    "avg": "0.56",
+    "items": {
+      "1": {
+        "item_id": 17,
+        "percentage": "17.33%"
+      },
+      "2": {
+        "item_id": 46,
+        "percentage": "9.03%"
+      },
+      "3": {
+        "item_id": 33,
+        "percentage": "9.03%"
+      },
+      "4": {
+        "item_id": 4,
+        "percentage": "8.30%"
+      },
+      "5": {
+        "item_id": 14,
+        "percentage": "5.78%"
+      },
+      "6": {
+        "item_id": 44,
+        "percentage": "5.05%"
+      },
+      "7": {
+        "item_id": 47,
+        "percentage": "4.69%"
+      }
+    },
+    "win_rate": "23.24%",
+    "top_four_rate": "68.50%",
+    "pick_rate": "2.35",
+    "price": 3,
+    "average_level": "1.92",
+    "average_placement": 3.6,
+    "role": "-",
+    "traits": [
+      "darkstar",
+      "mystic"
+    ]
+  },
+  "Kassadin": {
+    "avg": "0.71",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "11.11%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "4.70%"
+      },
+      "3": {
+        "item_id": 99,
+        "percentage": "4.27%"
+      },
+      "4": {
+        "item_id": 35,
+        "percentage": "4.27%"
+      },
+      "5": {
+        "item_id": 44,
+        "percentage": "4.06%"
+      },
+      "6": {
+        "item_id": 27,
+        "percentage": "4.06%"
+      },
+      "7": {
+        "item_id": 59,
+        "percentage": "4.06%"
+      }
+    },
+    "win_rate": "20.46%",
+    "top_four_rate": "63.09%",
+    "pick_rate": "3.32",
+    "price": 3,
+    "average_level": "1.92",
+    "average_placement": 3.8,
+    "role": "-",
+    "traits": [
+      "celestial",
+      "manareaver"
+    ]
+  },
+  "Kayle": {
+    "avg": "1.48",
+    "items": {
+      "1": {
+        "item_id": 23,
+        "percentage": "23.60%"
+      },
+      "2": {
+        "item_id": 15,
+        "percentage": "15.53%"
+      },
+      "3": {
+        "item_id": 22,
+        "percentage": "11.38%"
+      },
+      "4": {
+        "item_id": 49,
+        "percentage": "7.76%"
+      },
+      "5": {
+        "item_id": 69,
+        "percentage": "6.61%"
+      },
+      "6": {
+        "item_id": 79,
+        "percentage": "4.84%"
+      },
+      "7": {
+        "item_id": 37,
+        "percentage": "3.54%"
+      }
+    },
+    "win_rate": "25.61%",
+    "top_four_rate": "72.07%",
+    "pick_rate": "3.49",
+    "price": 4,
+    "average_level": "1.83",
+    "average_placement": 3.3,
+    "role": "-",
+    "traits": [
+      "valkyrie",
+      "blademaster"
+    ]
+  },
+  "KhaZix": {
+    "avg": "0.97",
+    "items": {
+      "1": {
+        "item_id": 19,
+        "percentage": "9.34%"
+      },
+      "2": {
+        "item_id": 22,
+        "percentage": "9.00%"
+      },
+      "3": {
+        "item_id": 67,
+        "percentage": "5.19%"
+      },
+      "4": {
+        "item_id": 2,
+        "percentage": "5.19%"
+      },
+      "5": {
+        "item_id": 12,
+        "percentage": "4.84%"
+      },
+      "6": {
+        "item_id": 11,
+        "percentage": "4.50%"
+      },
+      "7": {
+        "item_id": 15,
+        "percentage": "3.81%"
+      }
+    },
+    "win_rate": "23.51%",
+    "top_four_rate": "64.87%",
+    "pick_rate": "1.43",
+    "price": 1,
+    "average_level": "2.08",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "void",
+      "infiltrator"
+    ]
+  },
+  "Leona": {
+    "avg": "1.02",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "16.12%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "7.89%"
+      },
+      "3": {
+        "item_id": 88,
+        "percentage": "7.38%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "6.86%"
+      },
+      "5": {
+        "item_id": 3,
+        "percentage": "6.69%"
+      },
+      "6": {
+        "item_id": 27,
+        "percentage": "6.52%"
+      },
+      "7": {
+        "item_id": 6,
+        "percentage": "5.32%"
+      }
+    },
+    "win_rate": "20.07%",
+    "top_four_rate": "64.49%",
+    "pick_rate": "2.36",
+    "price": 1,
+    "average_level": "1.98",
+    "average_placement": 3.8,
+    "role": "-",
+    "traits": [
+      "cybernetic",
+      "vanguard"
+    ]
+  },
+  "Lucian": {
+    "avg": "1.39",
+    "items": {
+      "1": {
+        "item_id": 57,
+        "percentage": "36.54%"
+      },
+      "2": {
+        "item_id": 12,
+        "percentage": "10.60%"
+      },
+      "3": {
+        "item_id": 56,
+        "percentage": "4.63%"
+      },
+      "4": {
+        "item_id": 26,
+        "percentage": "4.26%"
+      },
+      "5": {
+        "item_id": 24,
+        "percentage": "3.53%"
+      },
+      "6": {
+        "item_id": 29,
+        "percentage": "3.29%"
+      },
+      "7": {
+        "item_id": 34,
+        "percentage": "2.44%"
+      }
+    },
+    "win_rate": "19.09%",
+    "top_four_rate": "62.00%",
+    "pick_rate": "2.31",
+    "price": 2,
+    "average_level": "1.82",
+    "average_placement": 3.8,
+    "role": "-",
+    "traits": [
+      "cybernetic",
+      "blaster"
+    ]
+  },
+  "Lulu": {
+    "avg": "0.76",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "10.59%"
+      },
+      "2": {
+        "item_id": 44,
+        "percentage": "6.62%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "5.29%"
+      },
+      "4": {
+        "item_id": 46,
+        "percentage": "4.91%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "3.97%"
+      },
+      "6": {
+        "item_id": 47,
+        "percentage": "3.78%"
+      },
+      "7": {
+        "item_id": 23,
+        "percentage": "3.78%"
+      }
+    },
+    "win_rate": "28.31%",
+    "top_four_rate": "77.45%",
+    "pick_rate": "3.30",
+    "price": 5,
+    "average_level": "1.49",
+    "average_placement": 3.0,
+    "role": "-",
+    "traits": [
+      "celestial",
+      "mystic"
+    ]
+  },
+  "Lux": {
+    "avg": "0.56",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "9.50%"
+      },
+      "2": {
+        "item_id": 34,
+        "percentage": "8.18%"
+      },
+      "3": {
+        "item_id": 37,
+        "percentage": "5.54%"
+      },
+      "4": {
+        "item_id": 4,
+        "percentage": "5.01%"
+      },
+      "5": {
+        "item_id": 28,
+        "percentage": "3.96%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "3.96%"
+      },
+      "7": {
+        "item_id": 44,
+        "percentage": "3.69%"
+      }
+    },
+    "win_rate": "23.91%",
+    "top_four_rate": "69.30%",
+    "pick_rate": "3.33",
+    "price": 3,
+    "average_level": "1.85",
+    "average_placement": 3.4,
+    "role": "-",
+    "traits": [
+      "darkstar",
+      "sorcerer"
+    ]
+  },
+  "Malphite": {
+    "avg": "0.26",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "14.09%"
+      },
+      "2": {
+        "item_id": 27,
+        "percentage": "12.75%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "6.04%"
+      },
+      "4": {
+        "item_id": 88,
+        "percentage": "6.04%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "5.37%"
+      },
+      "6": {
+        "item_id": 59,
+        "percentage": "5.37%"
+      },
+      "7": {
+        "item_id": 45,
+        "percentage": "4.70%"
+      }
+    },
+    "win_rate": "22.00%",
+    "top_four_rate": "62.48%",
+    "pick_rate": "2.87",
+    "price": 1,
+    "average_level": "1.94",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "rebel",
+      "brawler"
+    ]
+  },
+  "MasterYi": {
+    "avg": "1.14",
+    "items": {
+      "1": {
+        "item_id": 23,
+        "percentage": "20.00%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "17.04%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "7.04%"
+      },
+      "4": {
+        "item_id": 33,
+        "percentage": "6.67%"
+      },
+      "5": {
+        "item_id": 22,
+        "percentage": "5.19%"
+      },
+      "6": {
+        "item_id": 26,
+        "percentage": "3.70%"
+      },
+      "7": {
+        "item_id": 15,
+        "percentage": "3.33%"
+      }
+    },
+    "win_rate": "17.69%",
+    "top_four_rate": "58.48%",
+    "pick_rate": "1.12",
+    "price": 3,
+    "average_level": "1.99",
+    "average_placement": 4.0,
+    "role": "-",
+    "traits": [
+      "rebel",
+      "blademaster"
+    ]
+  },
+  "MissFortune": {
+    "avg": "1.63",
+    "items": {
+      "1": {
+        "item_id": 44,
+        "percentage": "10.06%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "8.78%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "6.17%"
+      },
+      "4": {
+        "item_id": 49,
+        "percentage": "5.70%"
+      },
+      "5": {
+        "item_id": 14,
+        "percentage": "5.17%"
+      },
+      "6": {
+        "item_id": 33,
+        "percentage": "5.13%"
+      },
+      "7": {
+        "item_id": 34,
+        "percentage": "4.65%"
+      }
+    },
+    "win_rate": "24.62%",
+    "top_four_rate": "70.84%",
+    "pick_rate": "4.55",
+    "price": 5,
+    "average_level": "1.49",
+    "average_placement": 3.4,
+    "role": "Carry",
+    "traits": [
+      "valkyrie",
+      "mercenary",
+      "blaster"
+    ]
+  },
+  "Mordekaiser": {
+    "avg": "0.99",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "10.33%"
+      },
+      "2": {
+        "item_id": 55,
+        "percentage": "10.00%"
+      },
+      "3": {
+        "item_id": 36,
+        "percentage": "9.33%"
+      },
+      "4": {
+        "item_id": 27,
+        "percentage": "8.33%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "5.67%"
+      },
+      "6": {
+        "item_id": 66,
+        "percentage": "4.33%"
+      },
+      "7": {
+        "item_id": 37,
+        "percentage": "4.00%"
+      }
+    },
+    "win_rate": "16.71%",
+    "top_four_rate": "57.79%",
+    "pick_rate": "1.43",
+    "price": 2,
+    "average_level": "1.91",
+    "average_placement": 4.1,
+    "role": "-",
+    "traits": [
+      "darkstar",
+      "vanguard"
+    ]
+  },
+  "Poppy": {
+    "avg": "1.68",
+    "items": {
+      "1": {
+        "item_id": 55,
+        "percentage": "22.81%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "16.06%"
+      },
+      "3": {
+        "item_id": 66,
+        "percentage": "15.15%"
+      },
+      "4": {
+        "item_id": 33,
+        "percentage": "10.40%"
+      },
+      "5": {
+        "item_id": 25,
+        "percentage": "8.58%"
+      },
+      "6": {
+        "item_id": 77,
+        "percentage": "5.29%"
+      },
+      "7": {
+        "item_id": 69,
+        "percentage": "3.65%"
+      }
+    },
+    "win_rate": "22.58%",
+    "top_four_rate": "62.37%",
+    "pick_rate": "1.13",
+    "price": 1,
+    "average_level": "2.58",
+    "average_placement": 3.7,
+    "role": "Carry",
+    "traits": [
+      "starguardian",
+      "vanguard"
+    ]
+  },
+  "Rakan": {
+    "avg": "1.40",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "25.08%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "12.69%"
+      },
+      "3": {
+        "item_id": 45,
+        "percentage": "8.16%"
+      },
+      "4": {
+        "item_id": 44,
+        "percentage": "5.44%"
+      },
+      "5": {
+        "item_id": 26,
+        "percentage": "3.63%"
+      },
+      "6": {
+        "item_id": 24,
+        "percentage": "2.72%"
+      },
+      "7": {
+        "item_id": 67,
+        "percentage": "2.72%"
+      }
+    },
+    "win_rate": "18.49%",
+    "top_four_rate": "63.03%",
+    "pick_rate": "0.96",
+    "price": 2,
+    "average_level": "2.50",
+    "average_placement": 3.9,
+    "role": "-",
+    "traits": [
+      "celestial",
+      "protector"
+    ]
+  },
+  "Rumble": {
+    "avg": "1.77",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "27.82%"
+      },
+      "2": {
+        "item_id": 25,
+        "percentage": "22.04%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "21.35%"
+      },
+      "4": {
+        "item_id": 79,
+        "percentage": "4.41%"
+      },
+      "5": {
+        "item_id": 66,
+        "percentage": "3.58%"
+      },
+      "6": {
+        "item_id": 15,
+        "percentage": "3.44%"
+      },
+      "7": {
+        "item_id": 36,
+        "percentage": "3.17%"
+      }
+    },
+    "win_rate": "19.75%",
+    "top_four_rate": "66.36%",
+    "pick_rate": "1.31",
+    "price": 3,
+    "average_level": "2.59",
+    "average_placement": 3.8,
+    "role": "Carry",
+    "traits": [
+      "mechpilot",
+      "demolitionist"
+    ]
+  },
+  "Shaco": {
+    "avg": "1.58",
+    "items": {
+      "1": {
+        "item_id": 15,
+        "percentage": "12.67%"
+      },
+      "2": {
+        "item_id": 16,
+        "percentage": "8.06%"
+      },
+      "3": {
+        "item_id": 45,
+        "percentage": "7.07%"
+      },
+      "4": {
+        "item_id": 19,
+        "percentage": "6.29%"
+      },
+      "5": {
+        "item_id": 17,
+        "percentage": "4.91%"
+      },
+      "6": {
+        "item_id": 13,
+        "percentage": "4.62%"
+      },
+      "7": {
+        "item_id": 36,
+        "percentage": "3.83%"
+      }
+    },
+    "win_rate": "21.25%",
+    "top_four_rate": "66.55%",
+    "pick_rate": "2.32",
+    "price": 3,
+    "average_level": "2.11",
+    "average_placement": 3.7,
+    "role": "Carry",
+    "traits": [
+      "darkstar",
+      "infiltrator"
+    ]
+  },
+  "Shen": {
+    "avg": "0.63",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "11.61%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "8.24%"
+      },
+      "3": {
+        "item_id": 27,
+        "percentage": "7.87%"
+      },
+      "4": {
+        "item_id": 68,
+        "percentage": "6.74%"
+      },
+      "5": {
+        "item_id": 45,
+        "percentage": "4.49%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "4.12%"
+      },
+      "7": {
+        "item_id": 15,
+        "percentage": "3.75%"
+      }
+    },
+    "win_rate": "19.46%",
+    "top_four_rate": "65.76%",
+    "pick_rate": "2.08",
+    "price": 2,
+    "average_level": "1.94",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "chrono",
+      "blademaster"
+    ]
+  },
+  "Sona": {
+    "avg": "0.96",
+    "items": {
+      "1": {
+        "item_id": 46,
+        "percentage": "57.40%"
+      },
+      "2": {
+        "item_id": 44,
+        "percentage": "17.46%"
+      },
+      "3": {
+        "item_id": 48,
+        "percentage": "2.37%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "2.07%"
+      },
+      "5": {
+        "item_id": 14,
+        "percentage": "2.07%"
+      },
+      "6": {
+        "item_id": 3,
+        "percentage": "1.48%"
+      },
+      "7": {
+        "item_id": 4,
+        "percentage": "1.48%"
+      }
+    },
+    "win_rate": "25.51%",
+    "top_four_rate": "65.24%",
+    "pick_rate": "1.79",
+    "price": 2,
+    "average_level": "1.90",
+    "average_placement": 3.6,
+    "role": "-",
+    "traits": [
+      "rebel",
+      "mystic"
+    ]
+  },
+  "Syndra": {
+    "avg": "1.10",
+    "items": {
+      "1": {
+        "item_id": 44,
+        "percentage": "23.78%"
+      },
+      "2": {
+        "item_id": 46,
+        "percentage": "17.68%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "6.71%"
+      },
+      "4": {
+        "item_id": 33,
+        "percentage": "6.10%"
+      },
+      "5": {
+        "item_id": 39,
+        "percentage": "5.49%"
+      },
+      "6": {
+        "item_id": 15,
+        "percentage": "4.88%"
+      },
+      "7": {
+        "item_id": 14,
+        "percentage": "3.05%"
+      }
+    },
+    "win_rate": "21.39%",
+    "top_four_rate": "63.58%",
+    "pick_rate": "0.70",
+    "price": 3,
+    "average_level": "2.06",
+    "average_placement": 3.6,
+    "role": "-",
+    "traits": [
+      "starguardian",
+      "sorcerer"
+    ]
+  },
+  "Soraka": {
+    "avg": "0.40",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "6.41%"
+      },
+      "2": {
+        "item_id": 17,
+        "percentage": "6.41%"
+      },
+      "3": {
+        "item_id": 2,
+        "percentage": "5.13%"
+      },
+      "4": {
+        "item_id": 29,
+        "percentage": "5.13%"
+      },
+      "5": {
+        "item_id": 59,
+        "percentage": "5.13%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "5.13%"
+      },
+      "7": {
+        "item_id": 12,
+        "percentage": "5.13%"
+      }
+    },
+    "win_rate": "32.20%",
+    "top_four_rate": "76.69%",
+    "pick_rate": "0.96",
+    "price": 4,
+    "average_level": "1.81",
+    "average_placement": 3.0,
+    "role": "-",
+    "traits": [
+      "starguardian",
+      "mystic"
+    ]
+  },
+  "Thresh": {
+    "avg": "0.59",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "10.32%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "7.74%"
+      },
+      "3": {
+        "item_id": 17,
+        "percentage": "6.13%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "5.48%"
+      },
+      "5": {
+        "item_id": 79,
+        "percentage": "5.16%"
+      },
+      "6": {
+        "item_id": 46,
+        "percentage": "5.16%"
+      },
+      "7": {
+        "item_id": 68,
+        "percentage": "4.19%"
+      }
+    },
+    "win_rate": "28.37%",
+    "top_four_rate": "75.19%",
+    "pick_rate": "2.61",
+    "price": 5,
+    "average_level": "1.50",
+    "average_placement": 3.1,
+    "role": "-",
+    "traits": [
+      "chrono",
+      "manareaver"
+    ]
+  },
+  "TwistedFate": {
+    "avg": "1.54",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "19.91%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "12.83%"
+      },
+      "3": {
+        "item_id": 24,
+        "percentage": "8.41%"
+      },
+      "4": {
+        "item_id": 48,
+        "percentage": "6.86%"
+      },
+      "5": {
+        "item_id": 79,
+        "percentage": "5.75%"
+      },
+      "6": {
+        "item_id": 23,
+        "percentage": "4.42%"
+      },
+      "7": {
+        "item_id": 44,
+        "percentage": "3.98%"
+      }
+    },
+    "win_rate": "27.70%",
+    "top_four_rate": "66.19%",
+    "pick_rate": "1.12",
+    "price": 1,
+    "average_level": "2.46",
+    "average_placement": 3.5,
+    "role": "Carry",
+    "traits": [
+      "chrono",
+      "sorcerer"
+    ]
+  },
+  "VelKoz": {
+    "avg": "1.54",
+    "items": {
+      "1": {
+        "item_id": 37,
+        "percentage": "17.46%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "8.37%"
+      },
+      "3": {
+        "item_id": 44,
+        "percentage": "8.13%"
+      },
+      "4": {
+        "item_id": 79,
+        "percentage": "7.66%"
+      },
+      "5": {
+        "item_id": 15,
+        "percentage": "6.46%"
+      },
+      "6": {
+        "item_id": 39,
+        "percentage": "6.22%"
+      },
+      "7": {
+        "item_id": 33,
+        "percentage": "6.22%"
+      }
+    },
+    "win_rate": "32.42%",
+    "top_four_rate": "70.31%",
+    "pick_rate": "1.04",
+    "price": 4,
+    "average_level": "1.98",
+    "average_placement": 3.2,
+    "role": "Carry",
+    "traits": [
+      "void",
+      "sorcerer"
+    ]
+  },
+  "Vi": {
+    "avg": "1.15",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "17.09%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "8.59%"
+      },
+      "3": {
+        "item_id": 45,
+        "percentage": "6.04%"
+      },
+      "4": {
+        "item_id": 3,
+        "percentage": "4.42%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "4.34%"
+      },
+      "6": {
+        "item_id": 99,
+        "percentage": "4.08%"
+      },
+      "7": {
+        "item_id": 6,
+        "percentage": "3.83%"
+      }
+    },
+    "win_rate": "21.93%",
+    "top_four_rate": "65.04%",
+    "pick_rate": "4.32",
+    "price": 3,
+    "average_level": "1.89",
+    "average_placement": 3.6,
+    "role": "-",
+    "traits": [
+      "cybernetic",
+      "brawler"
+    ]
+  },
+  "WuKong": {
+    "avg": "1.11",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "9.21%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "8.36%"
+      },
+      "3": {
+        "item_id": 47,
+        "percentage": "8.07%"
+      },
+      "4": {
+        "item_id": 45,
+        "percentage": "7.37%"
+      },
+      "5": {
+        "item_id": 55,
+        "percentage": "6.23%"
+      },
+      "6": {
+        "item_id": 15,
+        "percentage": "4.96%"
+      },
+      "7": {
+        "item_id": 68,
+        "percentage": "4.82%"
+      }
+    },
+    "win_rate": "25.07%",
+    "top_four_rate": "68.01%",
+    "pick_rate": "2.81",
+    "price": 4,
+    "average_level": "1.86",
+    "average_placement": 3.5,
+    "role": "-",
+    "traits": [
+      "chrono",
+      "vanguard"
+    ]
+  },
+  "Xayah": {
+    "avg": "0.73",
+    "items": {
+      "1": {
+        "item_id": 24,
+        "percentage": "18.50%"
+      },
+      "2": {
+        "item_id": 29,
+        "percentage": "12.00%"
+      },
+      "3": {
+        "item_id": 19,
+        "percentage": "11.50%"
+      },
+      "4": {
+        "item_id": 23,
+        "percentage": "8.50%"
+      },
+      "5": {
+        "item_id": 69,
+        "percentage": "8.50%"
+      },
+      "6": {
+        "item_id": 17,
+        "percentage": "8.00%"
+      },
+      "7": {
+        "item_id": 79,
+        "percentage": "4.50%"
+      }
+    },
+    "win_rate": "19.79%",
+    "top_four_rate": "62.01%",
+    "pick_rate": "1.53",
+    "price": 1,
+    "average_level": "1.82",
+    "average_placement": 3.9,
+    "role": "-",
+    "traits": [
+      "celestial",
+      "blademaster"
+    ]
+  },
+  "Xerath": {
+    "avg": "1.68",
+    "items": {
+      "1": {
+        "item_id": 23,
+        "percentage": "20.40%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "14.11%"
+      },
+      "3": {
+        "item_id": 33,
+        "percentage": "6.92%"
+      },
+      "4": {
+        "item_id": 15,
+        "percentage": "6.38%"
+      },
+      "5": {
+        "item_id": 79,
+        "percentage": "5.84%"
+      },
+      "6": {
+        "item_id": 24,
+        "percentage": "4.49%"
+      },
+      "7": {
+        "item_id": 49,
+        "percentage": "3.50%"
+      }
+    },
+    "win_rate": "26.92%",
+    "top_four_rate": "75.04%",
+    "pick_rate": "2.27",
+    "price": 5,
+    "average_level": "1.60",
+    "average_placement": 3.1,
+    "role": "Carry",
+    "traits": [
+      "darkstar",
+      "sorcerer"
+    ]
+  },
+  "XinZhao": {
+    "avg": "1.33",
+    "items": {
+      "1": {
+        "item_id": 25,
+        "percentage": "10.64%"
+      },
+      "2": {
+        "item_id": 55,
+        "percentage": "9.57%"
+      },
+      "3": {
+        "item_id": 27,
+        "percentage": "9.57%"
+      },
+      "4": {
+        "item_id": 66,
+        "percentage": "8.16%"
+      },
+      "5": {
+        "item_id": 77,
+        "percentage": "5.67%"
+      },
+      "6": {
+        "item_id": 69,
+        "percentage": "5.32%"
+      },
+      "7": {
+        "item_id": 99,
+        "percentage": "3.90%"
+      }
+    },
+    "win_rate": "19.35%",
+    "top_four_rate": "62.21%",
+    "pick_rate": "0.88",
+    "price": 2,
+    "average_level": "2.58",
+    "average_placement": 3.9,
+    "role": "-",
+    "traits": [
+      "celestial",
+      "protector"
+    ]
+  },
+  "Yasuo": {
+    "avg": "1.01",
+    "items": {
+      "1": {
+        "item_id": 17,
+        "percentage": "12.20%"
+      },
+      "2": {
+        "item_id": 15,
+        "percentage": "8.78%"
+      },
+      "3": {
+        "item_id": 19,
+        "percentage": "7.32%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "6.83%"
+      },
+      "5": {
+        "item_id": 49,
+        "percentage": "6.34%"
+      },
+      "6": {
+        "item_id": 14,
+        "percentage": "5.85%"
+      },
+      "7": {
+        "item_id": 16,
+        "percentage": "4.88%"
+      }
+    },
+    "win_rate": "18.00%",
+    "top_four_rate": "60.00%",
+    "pick_rate": "1.01",
+    "price": 2,
+    "average_level": "2.05",
+    "average_placement": 3.9,
+    "role": "-",
+    "traits": [
+      "rebel",
+      "blademaster"
+    ]
+  },
+  "Ziggs": {
+    "avg": "0.34",
+    "items": {
+      "1": {
+        "item_id": 34,
+        "percentage": "11.76%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "9.80%"
+      },
+      "3": {
+        "item_id": 44,
+        "percentage": "7.84%"
+      },
+      "4": {
+        "item_id": 46,
+        "percentage": "5.88%"
+      },
+      "5": {
+        "item_id": 17,
+        "percentage": "5.88%"
+      },
+      "6": {
+        "item_id": 12,
+        "percentage": "5.88%"
+      },
+      "7": {
+        "item_id": 3,
+        "percentage": "5.88%"
+      }
+    },
+    "win_rate": "19.51%",
+    "top_four_rate": "60.49%",
+    "pick_rate": "0.83",
+    "price": 1,
+    "average_level": "1.69",
+    "average_placement": 3.9,
+    "role": "-",
+    "traits": [
+      "rebel",
+      "demolitionist"
+    ]
+  },
+  "Zoe": {
+    "avg": "1.02",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "12.39%"
+      },
+      "2": {
+        "item_id": 99,
+        "percentage": "7.34%"
+      },
+      "3": {
+        "item_id": 17,
+        "percentage": "6.88%"
+      },
+      "4": {
+        "item_id": 24,
+        "percentage": "5.05%"
+      },
+      "5": {
+        "item_id": 35,
+        "percentage": "5.05%"
+      },
+      "6": {
+        "item_id": 22,
+        "percentage": "3.67%"
+      },
+      "7": {
+        "item_id": 79,
+        "percentage": "3.67%"
+      }
+    },
+    "win_rate": "22.92%",
+    "top_four_rate": "62.45%",
+    "pick_rate": "1.02",
+    "price": 1,
+    "average_level": "2.56",
+    "average_placement": 3.7,
+    "role": "-",
+    "traits": [
+      "starguardian",
+      "sorcerer"
+    ]
+  }
+}
