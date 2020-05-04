@@ -1,0 +1,1594 @@
+{
+  "Ahri": {
+    "avg": "0.98",
+    "items": {
+      "1": {
+        "item_id": 46,
+        "percentage": "9.50%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "6.70%"
+      },
+      "3": {
+        "item_id": 99,
+        "percentage": "5.03%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "5.03%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "5.03%"
+      },
+      "6": {
+        "item_id": 44,
+        "percentage": "4.47%"
+      },
+      "7": {
+        "item_id": 14,
+        "percentage": "4.47%"
+      }
+    }
+  },
+  "Annie": {
+    "avg": "0.27",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "21.54%"
+      },
+      "2": {
+        "item_id": 27,
+        "percentage": "13.85%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "12.31%"
+      },
+      "4": {
+        "item_id": 25,
+        "percentage": "9.23%"
+      },
+      "5": {
+        "item_id": 79,
+        "percentage": "7.69%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "6.15%"
+      },
+      "7": {
+        "item_id": 77,
+        "percentage": "4.62%"
+      }
+    }
+  },
+  "Ashe": {
+    "avg": "0.67",
+    "items": {
+      "1": {
+        "item_id": 89,
+        "percentage": "15.51%"
+      },
+      "2": {
+        "item_id": 14,
+        "percentage": "9.42%"
+      },
+      "3": {
+        "item_id": 23,
+        "percentage": "6.93%"
+      },
+      "4": {
+        "item_id": 24,
+        "percentage": "4.71%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "4.71%"
+      },
+      "6": {
+        "item_id": 12,
+        "percentage": "4.43%"
+      },
+      "7": {
+        "item_id": 26,
+        "percentage": "3.88%"
+      }
+    }
+  },
+  "AurelionSol": {
+    "avg": "1.28",
+    "items": {
+      "1": {
+        "item_id": 37,
+        "percentage": "11.91%"
+      },
+      "2": {
+        "item_id": 38,
+        "percentage": "10.79%"
+      },
+      "3": {
+        "item_id": 36,
+        "percentage": "8.31%"
+      },
+      "4": {
+        "item_id": 44,
+        "percentage": "8.31%"
+      },
+      "5": {
+        "item_id": 33,
+        "percentage": "7.42%"
+      },
+      "6": {
+        "item_id": 34,
+        "percentage": "6.29%"
+      },
+      "7": {
+        "item_id": 39,
+        "percentage": "4.94%"
+      }
+    }
+  },
+  "Blitzcrank": {
+    "avg": "0.28",
+    "items": {
+      "1": {
+        "item_id": 67,
+        "percentage": "43.54%"
+      },
+      "2": {
+        "item_id": 58,
+        "percentage": "9.57%"
+      },
+      "3": {
+        "item_id": 46,
+        "percentage": "6.70%"
+      },
+      "4": {
+        "item_id": 88,
+        "percentage": "3.83%"
+      },
+      "5": {
+        "item_id": 35,
+        "percentage": "3.35%"
+      },
+      "6": {
+        "item_id": 59,
+        "percentage": "2.87%"
+      },
+      "7": {
+        "item_id": 47,
+        "percentage": "2.39%"
+      }
+    }
+  },
+  "ChoGath": {
+    "avg": "1.40",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "11.17%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "6.60%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "5.79%"
+      },
+      "4": {
+        "item_id": 55,
+        "percentage": "5.08%"
+      },
+      "5": {
+        "item_id": 35,
+        "percentage": "4.77%"
+      },
+      "6": {
+        "item_id": 99,
+        "percentage": "4.57%"
+      },
+      "7": {
+        "item_id": 77,
+        "percentage": "3.96%"
+      }
+    }
+  },
+  "Darius": {
+    "avg": "1.89",
+    "items": {
+      "1": {
+        "item_id": 33,
+        "percentage": "26.93%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "17.43%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "15.05%"
+      },
+      "4": {
+        "item_id": 69,
+        "percentage": "10.30%"
+      },
+      "5": {
+        "item_id": 39,
+        "percentage": "7.13%"
+      },
+      "6": {
+        "item_id": 78,
+        "percentage": "5.15%"
+      },
+      "7": {
+        "item_id": 79,
+        "percentage": "2.38%"
+      }
+    }
+  },
+  "Ekko": {
+    "avg": "1.62",
+    "items": {
+      "1": {
+        "item_id": 24,
+        "percentage": "7.75%"
+      },
+      "2": {
+        "item_id": 57,
+        "percentage": "7.64%"
+      },
+      "3": {
+        "item_id": 37,
+        "percentage": "5.65%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "4.87%"
+      },
+      "5": {
+        "item_id": 49,
+        "percentage": "4.54%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "4.21%"
+      },
+      "7": {
+        "item_id": 45,
+        "percentage": "3.88%"
+      }
+    }
+  },
+  "Ezreal": {
+    "avg": "0.86",
+    "items": {
+      "1": {
+        "item_id": 57,
+        "percentage": "18.97%"
+      },
+      "2": {
+        "item_id": 17,
+        "percentage": "8.03%"
+      },
+      "3": {
+        "item_id": 56,
+        "percentage": "7.35%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "6.15%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "4.96%"
+      },
+      "6": {
+        "item_id": 29,
+        "percentage": "4.62%"
+      },
+      "7": {
+        "item_id": 19,
+        "percentage": "3.59%"
+      }
+    }
+  },
+  "Fiora": {
+    "avg": "0.98",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "14.87%"
+      },
+      "2": {
+        "item_id": 4,
+        "percentage": "10.13%"
+      },
+      "3": {
+        "item_id": 67,
+        "percentage": "7.54%"
+      },
+      "4": {
+        "item_id": 36,
+        "percentage": "6.25%"
+      },
+      "5": {
+        "item_id": 3,
+        "percentage": "5.60%"
+      },
+      "6": {
+        "item_id": 88,
+        "percentage": "4.96%"
+      },
+      "7": {
+        "item_id": 27,
+        "percentage": "4.53%"
+      }
+    }
+  },
+  "Fizz": {
+    "avg": "0.41",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "24.73%"
+      },
+      "2": {
+        "item_id": 25,
+        "percentage": "18.28%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "8.60%"
+      },
+      "4": {
+        "item_id": 66,
+        "percentage": "7.53%"
+      },
+      "5": {
+        "item_id": 36,
+        "percentage": "5.38%"
+      },
+      "6": {
+        "item_id": 15,
+        "percentage": "5.38%"
+      },
+      "7": {
+        "item_id": 33,
+        "percentage": "3.23%"
+      }
+    }
+  },
+  "Gangplank": {
+    "avg": "1.77",
+    "items": {
+      "1": {
+        "item_id": 15,
+        "percentage": "19.32%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "11.81%"
+      },
+      "3": {
+        "item_id": 37,
+        "percentage": "6.08%"
+      },
+      "4": {
+        "item_id": 69,
+        "percentage": "5.37%"
+      },
+      "5": {
+        "item_id": 44,
+        "percentage": "4.47%"
+      },
+      "6": {
+        "item_id": 45,
+        "percentage": "3.94%"
+      },
+      "7": {
+        "item_id": 47,
+        "percentage": "3.76%"
+      }
+    }
+  },
+  "Graves": {
+    "avg": "0.35",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "13.28%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "10.94%"
+      },
+      "3": {
+        "item_id": 27,
+        "percentage": "7.03%"
+      },
+      "4": {
+        "item_id": 4,
+        "percentage": "6.25%"
+      },
+      "5": {
+        "item_id": 46,
+        "percentage": "5.47%"
+      },
+      "6": {
+        "item_id": 44,
+        "percentage": "4.69%"
+      },
+      "7": {
+        "item_id": 59,
+        "percentage": "3.91%"
+      }
+    }
+  },
+  "Irelia": {
+    "avg": "1.82",
+    "items": {
+      "1": {
+        "item_id": 19,
+        "percentage": "36.90%"
+      },
+      "2": {
+        "item_id": 29,
+        "percentage": "15.26%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "8.40%"
+      },
+      "4": {
+        "item_id": 28,
+        "percentage": "5.65%"
+      },
+      "5": {
+        "item_id": 16,
+        "percentage": "4.17%"
+      },
+      "6": {
+        "item_id": 33,
+        "percentage": "3.83%"
+      },
+      "7": {
+        "item_id": 11,
+        "percentage": "2.76%"
+      }
+    }
+  },
+  "JarvanIV": {
+    "avg": "0.80",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "25.09%"
+      },
+      "2": {
+        "item_id": 27,
+        "percentage": "19.93%"
+      },
+      "3": {
+        "item_id": 68,
+        "percentage": "5.90%"
+      },
+      "4": {
+        "item_id": 45,
+        "percentage": "5.54%"
+      },
+      "5": {
+        "item_id": 36,
+        "percentage": "5.17%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "4.06%"
+      },
+      "7": {
+        "item_id": 59,
+        "percentage": "3.69%"
+      }
+    }
+  },
+  "Jayce": {
+    "avg": "1.59",
+    "items": {
+      "1": {
+        "item_id": 15,
+        "percentage": "9.22%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "7.68%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "5.29%"
+      },
+      "4": {
+        "item_id": 99,
+        "percentage": "5.12%"
+      },
+      "5": {
+        "item_id": 25,
+        "percentage": "4.61%"
+      },
+      "6": {
+        "item_id": 66,
+        "percentage": "4.44%"
+      },
+      "7": {
+        "item_id": 13,
+        "percentage": "4.27%"
+      }
+    }
+  },
+  "Jhin": {
+    "avg": "1.75",
+    "items": {
+      "1": {
+        "item_id": 26,
+        "percentage": "23.81%"
+      },
+      "2": {
+        "item_id": 15,
+        "percentage": "16.60%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "15.90%"
+      },
+      "4": {
+        "item_id": 19,
+        "percentage": "10.96%"
+      },
+      "5": {
+        "item_id": 29,
+        "percentage": "8.77%"
+      },
+      "6": {
+        "item_id": 11,
+        "percentage": "3.60%"
+      },
+      "7": {
+        "item_id": 69,
+        "percentage": "2.58%"
+      }
+    }
+  },
+  "Jinx": {
+    "avg": "1.93",
+    "items": {
+      "1": {
+        "item_id": 12,
+        "percentage": "30.31%"
+      },
+      "2": {
+        "item_id": 57,
+        "percentage": "18.77%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "11.25%"
+      },
+      "4": {
+        "item_id": 15,
+        "percentage": "9.36%"
+      },
+      "5": {
+        "item_id": 26,
+        "percentage": "5.07%"
+      },
+      "6": {
+        "item_id": 29,
+        "percentage": "4.92%"
+      },
+      "7": {
+        "item_id": 19,
+        "percentage": "3.67%"
+      }
+    }
+  },
+  "Kaisa": {
+    "avg": "nan",
+    "items": {}
+  },
+  "Karma": {
+    "avg": "0.56",
+    "items": {
+      "1": {
+        "item_id": 17,
+        "percentage": "17.14%"
+      },
+      "2": {
+        "item_id": 46,
+        "percentage": "9.29%"
+      },
+      "3": {
+        "item_id": 33,
+        "percentage": "8.57%"
+      },
+      "4": {
+        "item_id": 4,
+        "percentage": "8.21%"
+      },
+      "5": {
+        "item_id": 14,
+        "percentage": "6.07%"
+      },
+      "6": {
+        "item_id": 47,
+        "percentage": "4.64%"
+      },
+      "7": {
+        "item_id": 35,
+        "percentage": "4.64%"
+      }
+    }
+  },
+  "Kassadin": {
+    "avg": "0.71",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "11.35%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "4.50%"
+      },
+      "3": {
+        "item_id": 35,
+        "percentage": "4.50%"
+      },
+      "4": {
+        "item_id": 44,
+        "percentage": "4.07%"
+      },
+      "5": {
+        "item_id": 27,
+        "percentage": "4.07%"
+      },
+      "6": {
+        "item_id": 59,
+        "percentage": "4.07%"
+      },
+      "7": {
+        "item_id": 99,
+        "percentage": "4.07%"
+      }
+    }
+  },
+  "Kayle": {
+    "avg": "1.48",
+    "items": {
+      "1": {
+        "item_id": 23,
+        "percentage": "23.35%"
+      },
+      "2": {
+        "item_id": 15,
+        "percentage": "15.39%"
+      },
+      "3": {
+        "item_id": 22,
+        "percentage": "11.33%"
+      },
+      "4": {
+        "item_id": 49,
+        "percentage": "7.58%"
+      },
+      "5": {
+        "item_id": 69,
+        "percentage": "6.66%"
+      },
+      "6": {
+        "item_id": 79,
+        "percentage": "4.75%"
+      },
+      "7": {
+        "item_id": 37,
+        "percentage": "3.52%"
+      }
+    }
+  },
+  "KhaZix": {
+    "avg": "0.96",
+    "items": {
+      "1": {
+        "item_id": 22,
+        "percentage": "9.41%"
+      },
+      "2": {
+        "item_id": 19,
+        "percentage": "8.71%"
+      },
+      "3": {
+        "item_id": 2,
+        "percentage": "5.23%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "5.23%"
+      },
+      "5": {
+        "item_id": 12,
+        "percentage": "4.53%"
+      },
+      "6": {
+        "item_id": 11,
+        "percentage": "4.18%"
+      },
+      "7": {
+        "item_id": 15,
+        "percentage": "3.83%"
+      }
+    }
+  },
+  "Leona": {
+    "avg": "1.02",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "16.01%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "7.57%"
+      },
+      "3": {
+        "item_id": 88,
+        "percentage": "7.40%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "7.06%"
+      },
+      "5": {
+        "item_id": 3,
+        "percentage": "6.71%"
+      },
+      "6": {
+        "item_id": 27,
+        "percentage": "6.71%"
+      },
+      "7": {
+        "item_id": 6,
+        "percentage": "5.51%"
+      }
+    }
+  },
+  "Lucian": {
+    "avg": "1.38",
+    "items": {
+      "1": {
+        "item_id": 57,
+        "percentage": "36.76%"
+      },
+      "2": {
+        "item_id": 12,
+        "percentage": "10.89%"
+      },
+      "3": {
+        "item_id": 56,
+        "percentage": "4.70%"
+      },
+      "4": {
+        "item_id": 26,
+        "percentage": "4.08%"
+      },
+      "5": {
+        "item_id": 24,
+        "percentage": "3.59%"
+      },
+      "6": {
+        "item_id": 29,
+        "percentage": "3.22%"
+      },
+      "7": {
+        "item_id": 34,
+        "percentage": "2.35%"
+      }
+    }
+  },
+  "Lulu": {
+    "avg": "0.75",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "10.67%"
+      },
+      "2": {
+        "item_id": 44,
+        "percentage": "6.48%"
+      },
+      "3": {
+        "item_id": 15,
+        "percentage": "5.14%"
+      },
+      "4": {
+        "item_id": 46,
+        "percentage": "4.95%"
+      },
+      "5": {
+        "item_id": 47,
+        "percentage": "4.00%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "4.00%"
+      },
+      "7": {
+        "item_id": 23,
+        "percentage": "3.62%"
+      }
+    }
+  },
+  "Lux": {
+    "avg": "0.57",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "9.61%"
+      },
+      "2": {
+        "item_id": 34,
+        "percentage": "8.83%"
+      },
+      "3": {
+        "item_id": 37,
+        "percentage": "5.45%"
+      },
+      "4": {
+        "item_id": 4,
+        "percentage": "4.94%"
+      },
+      "5": {
+        "item_id": 28,
+        "percentage": "4.16%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "3.90%"
+      },
+      "7": {
+        "item_id": 44,
+        "percentage": "3.38%"
+      }
+    }
+  },
+  "Malphite": {
+    "avg": "0.26",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "14.09%"
+      },
+      "2": {
+        "item_id": 27,
+        "percentage": "12.08%"
+      },
+      "3": {
+        "item_id": 88,
+        "percentage": "6.71%"
+      },
+      "4": {
+        "item_id": 59,
+        "percentage": "6.04%"
+      },
+      "5": {
+        "item_id": 55,
+        "percentage": "6.04%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "5.37%"
+      },
+      "7": {
+        "item_id": 17,
+        "percentage": "4.70%"
+      }
+    }
+  },
+  "MasterYi": {
+    "avg": "1.13",
+    "items": {
+      "1": {
+        "item_id": 23,
+        "percentage": "19.63%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "16.67%"
+      },
+      "3": {
+        "item_id": 33,
+        "percentage": "6.67%"
+      },
+      "4": {
+        "item_id": 55,
+        "percentage": "6.67%"
+      },
+      "5": {
+        "item_id": 22,
+        "percentage": "5.19%"
+      },
+      "6": {
+        "item_id": 17,
+        "percentage": "3.70%"
+      },
+      "7": {
+        "item_id": 26,
+        "percentage": "3.70%"
+      }
+    }
+  },
+  "MissFortune": {
+    "avg": "1.63",
+    "items": {
+      "1": {
+        "item_id": 44,
+        "percentage": "10.26%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "8.80%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "6.07%"
+      },
+      "4": {
+        "item_id": 49,
+        "percentage": "5.69%"
+      },
+      "5": {
+        "item_id": 14,
+        "percentage": "5.18%"
+      },
+      "6": {
+        "item_id": 33,
+        "percentage": "5.13%"
+      },
+      "7": {
+        "item_id": 34,
+        "percentage": "4.66%"
+      }
+    }
+  },
+  "Mordekaiser": {
+    "avg": "0.99",
+    "items": {
+      "1": {
+        "item_id": 55,
+        "percentage": "10.07%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "10.07%"
+      },
+      "3": {
+        "item_id": 36,
+        "percentage": "9.40%"
+      },
+      "4": {
+        "item_id": 27,
+        "percentage": "8.39%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "5.70%"
+      },
+      "6": {
+        "item_id": 66,
+        "percentage": "4.36%"
+      },
+      "7": {
+        "item_id": 37,
+        "percentage": "3.69%"
+      }
+    }
+  },
+  "Poppy": {
+    "avg": "1.68",
+    "items": {
+      "1": {
+        "item_id": 55,
+        "percentage": "22.74%"
+      },
+      "2": {
+        "item_id": 36,
+        "percentage": "16.06%"
+      },
+      "3": {
+        "item_id": 66,
+        "percentage": "15.34%"
+      },
+      "4": {
+        "item_id": 33,
+        "percentage": "10.29%"
+      },
+      "5": {
+        "item_id": 25,
+        "percentage": "8.48%"
+      },
+      "6": {
+        "item_id": 77,
+        "percentage": "5.23%"
+      },
+      "7": {
+        "item_id": 69,
+        "percentage": "3.61%"
+      }
+    }
+  },
+  "Rakan": {
+    "avg": "1.39",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "25.53%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "12.61%"
+      },
+      "3": {
+        "item_id": 45,
+        "percentage": "8.11%"
+      },
+      "4": {
+        "item_id": 44,
+        "percentage": "5.41%"
+      },
+      "5": {
+        "item_id": 26,
+        "percentage": "3.90%"
+      },
+      "6": {
+        "item_id": 4,
+        "percentage": "2.70%"
+      },
+      "7": {
+        "item_id": 24,
+        "percentage": "2.70%"
+      }
+    }
+  },
+  "Rumble": {
+    "avg": "1.77",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "27.88%"
+      },
+      "2": {
+        "item_id": 25,
+        "percentage": "21.92%"
+      },
+      "3": {
+        "item_id": 55,
+        "percentage": "21.24%"
+      },
+      "4": {
+        "item_id": 79,
+        "percentage": "4.74%"
+      },
+      "5": {
+        "item_id": 15,
+        "percentage": "3.25%"
+      },
+      "6": {
+        "item_id": 66,
+        "percentage": "3.25%"
+      },
+      "7": {
+        "item_id": 36,
+        "percentage": "3.11%"
+      }
+    }
+  },
+  "Shaco": {
+    "avg": "1.58",
+    "items": {
+      "1": {
+        "item_id": 15,
+        "percentage": "12.83%"
+      },
+      "2": {
+        "item_id": 16,
+        "percentage": "8.10%"
+      },
+      "3": {
+        "item_id": 45,
+        "percentage": "7.04%"
+      },
+      "4": {
+        "item_id": 19,
+        "percentage": "6.27%"
+      },
+      "5": {
+        "item_id": 17,
+        "percentage": "4.92%"
+      },
+      "6": {
+        "item_id": 13,
+        "percentage": "4.53%"
+      },
+      "7": {
+        "item_id": 36,
+        "percentage": "3.66%"
+      }
+    }
+  },
+  "Shen": {
+    "avg": "0.62",
+    "items": {
+      "1": {
+        "item_id": 47,
+        "percentage": "11.41%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "8.37%"
+      },
+      "3": {
+        "item_id": 27,
+        "percentage": "7.98%"
+      },
+      "4": {
+        "item_id": 68,
+        "percentage": "6.84%"
+      },
+      "5": {
+        "item_id": 45,
+        "percentage": "4.18%"
+      },
+      "6": {
+        "item_id": 36,
+        "percentage": "4.18%"
+      },
+      "7": {
+        "item_id": 15,
+        "percentage": "3.80%"
+      }
+    }
+  },
+  "Sona": {
+    "avg": "0.94",
+    "items": {
+      "1": {
+        "item_id": 46,
+        "percentage": "57.06%"
+      },
+      "2": {
+        "item_id": 44,
+        "percentage": "17.42%"
+      },
+      "3": {
+        "item_id": 14,
+        "percentage": "2.10%"
+      },
+      "4": {
+        "item_id": 48,
+        "percentage": "2.10%"
+      },
+      "5": {
+        "item_id": 67,
+        "percentage": "2.10%"
+      },
+      "6": {
+        "item_id": 3,
+        "percentage": "1.50%"
+      },
+      "7": {
+        "item_id": 4,
+        "percentage": "1.50%"
+      }
+    }
+  },
+  "Syndra": {
+    "avg": "1.08",
+    "items": {
+      "1": {
+        "item_id": 44,
+        "percentage": "23.12%"
+      },
+      "2": {
+        "item_id": 46,
+        "percentage": "18.12%"
+      },
+      "3": {
+        "item_id": 79,
+        "percentage": "6.88%"
+      },
+      "4": {
+        "item_id": 33,
+        "percentage": "6.25%"
+      },
+      "5": {
+        "item_id": 39,
+        "percentage": "5.62%"
+      },
+      "6": {
+        "item_id": 15,
+        "percentage": "4.38%"
+      },
+      "7": {
+        "item_id": 69,
+        "percentage": "3.12%"
+      }
+    }
+  },
+  "Soraka": {
+    "avg": "0.39",
+    "items": {
+      "1": {
+        "item_id": 69,
+        "percentage": "6.58%"
+      },
+      "2": {
+        "item_id": 17,
+        "percentage": "6.58%"
+      },
+      "3": {
+        "item_id": 2,
+        "percentage": "5.26%"
+      },
+      "4": {
+        "item_id": 29,
+        "percentage": "5.26%"
+      },
+      "5": {
+        "item_id": 59,
+        "percentage": "5.26%"
+      },
+      "6": {
+        "item_id": 67,
+        "percentage": "5.26%"
+      },
+      "7": {
+        "item_id": 14,
+        "percentage": "5.26%"
+      }
+    }
+  },
+  "Thresh": {
+    "avg": "0.60",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "10.19%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "7.64%"
+      },
+      "3": {
+        "item_id": 17,
+        "percentage": "6.05%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "5.73%"
+      },
+      "5": {
+        "item_id": 46,
+        "percentage": "5.41%"
+      },
+      "6": {
+        "item_id": 79,
+        "percentage": "5.10%"
+      },
+      "7": {
+        "item_id": 68,
+        "percentage": "4.14%"
+      }
+    }
+  },
+  "TwistedFate": {
+    "avg": "1.54",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "20.52%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "12.88%"
+      },
+      "3": {
+        "item_id": 24,
+        "percentage": "8.08%"
+      },
+      "4": {
+        "item_id": 48,
+        "percentage": "6.55%"
+      },
+      "5": {
+        "item_id": 79,
+        "percentage": "5.68%"
+      },
+      "6": {
+        "item_id": 23,
+        "percentage": "4.59%"
+      },
+      "7": {
+        "item_id": 39,
+        "percentage": "3.71%"
+      }
+    }
+  },
+  "Velkoz": {
+    "avg": "nan",
+    "items": {}
+  },
+  "Vi": {
+    "avg": "1.14",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "17.28%"
+      },
+      "2": {
+        "item_id": 47,
+        "percentage": "8.81%"
+      },
+      "3": {
+        "item_id": 45,
+        "percentage": "6.24%"
+      },
+      "4": {
+        "item_id": 67,
+        "percentage": "4.36%"
+      },
+      "5": {
+        "item_id": 3,
+        "percentage": "4.36%"
+      },
+      "6": {
+        "item_id": 99,
+        "percentage": "3.93%"
+      },
+      "7": {
+        "item_id": 6,
+        "percentage": "3.85%"
+      }
+    }
+  },
+  "WuKong": {
+    "avg": "1.13",
+    "items": {
+      "1": {
+        "item_id": 36,
+        "percentage": "9.18%"
+      },
+      "2": {
+        "item_id": 37,
+        "percentage": "8.48%"
+      },
+      "3": {
+        "item_id": 47,
+        "percentage": "7.93%"
+      },
+      "4": {
+        "item_id": 45,
+        "percentage": "7.37%"
+      },
+      "5": {
+        "item_id": 55,
+        "percentage": "6.26%"
+      },
+      "6": {
+        "item_id": 15,
+        "percentage": "5.29%"
+      },
+      "7": {
+        "item_id": 68,
+        "percentage": "4.73%"
+      }
+    }
+  },
+  "Xayah": {
+    "avg": "0.73",
+    "items": {
+      "1": {
+        "item_id": 24,
+        "percentage": "18.50%"
+      },
+      "2": {
+        "item_id": 29,
+        "percentage": "12.00%"
+      },
+      "3": {
+        "item_id": 19,
+        "percentage": "11.50%"
+      },
+      "4": {
+        "item_id": 23,
+        "percentage": "8.50%"
+      },
+      "5": {
+        "item_id": 69,
+        "percentage": "8.50%"
+      },
+      "6": {
+        "item_id": 17,
+        "percentage": "8.00%"
+      },
+      "7": {
+        "item_id": 79,
+        "percentage": "4.50%"
+      }
+    }
+  },
+  "Xerath": {
+    "avg": "1.68",
+    "items": {
+      "1": {
+        "item_id": 23,
+        "percentage": "20.21%"
+      },
+      "2": {
+        "item_id": 69,
+        "percentage": "14.04%"
+      },
+      "3": {
+        "item_id": 33,
+        "percentage": "6.89%"
+      },
+      "4": {
+        "item_id": 15,
+        "percentage": "6.44%"
+      },
+      "5": {
+        "item_id": 79,
+        "percentage": "5.72%"
+      },
+      "6": {
+        "item_id": 24,
+        "percentage": "4.38%"
+      },
+      "7": {
+        "item_id": 37,
+        "percentage": "3.49%"
+      }
+    }
+  },
+  "XinZhao": {
+    "avg": "1.32",
+    "items": {
+      "1": {
+        "item_id": 25,
+        "percentage": "10.56%"
+      },
+      "2": {
+        "item_id": 55,
+        "percentage": "9.51%"
+      },
+      "3": {
+        "item_id": 27,
+        "percentage": "9.51%"
+      },
+      "4": {
+        "item_id": 66,
+        "percentage": "8.10%"
+      },
+      "5": {
+        "item_id": 77,
+        "percentage": "5.99%"
+      },
+      "6": {
+        "item_id": 69,
+        "percentage": "5.28%"
+      },
+      "7": {
+        "item_id": 99,
+        "percentage": "3.87%"
+      }
+    }
+  },
+  "Yasuo": {
+    "avg": "1.01",
+    "items": {
+      "1": {
+        "item_id": 17,
+        "percentage": "11.88%"
+      },
+      "2": {
+        "item_id": 15,
+        "percentage": "8.91%"
+      },
+      "3": {
+        "item_id": 19,
+        "percentage": "7.43%"
+      },
+      "4": {
+        "item_id": 12,
+        "percentage": "6.93%"
+      },
+      "5": {
+        "item_id": 49,
+        "percentage": "6.44%"
+      },
+      "6": {
+        "item_id": 14,
+        "percentage": "5.94%"
+      },
+      "7": {
+        "item_id": 16,
+        "percentage": "4.95%"
+      }
+    }
+  },
+  "Ziggs": {
+    "avg": "0.33",
+    "items": {
+      "1": {
+        "item_id": 34,
+        "percentage": "12.00%"
+      },
+      "2": {
+        "item_id": 67,
+        "percentage": "10.00%"
+      },
+      "3": {
+        "item_id": 44,
+        "percentage": "8.00%"
+      },
+      "4": {
+        "item_id": 46,
+        "percentage": "6.00%"
+      },
+      "5": {
+        "item_id": 12,
+        "percentage": "6.00%"
+      },
+      "6": {
+        "item_id": 3,
+        "percentage": "6.00%"
+      },
+      "7": {
+        "item_id": 49,
+        "percentage": "4.00%"
+      }
+    }
+  },
+  "Zoe": {
+    "avg": "1.04",
+    "items": {
+      "1": {
+        "item_id": 14,
+        "percentage": "11.89%"
+      },
+      "2": {
+        "item_id": 99,
+        "percentage": "7.49%"
+      },
+      "3": {
+        "item_id": 17,
+        "percentage": "7.05%"
+      },
+      "4": {
+        "item_id": 24,
+        "percentage": "4.85%"
+      },
+      "5": {
+        "item_id": 35,
+        "percentage": "4.85%"
+      },
+      "6": {
+        "item_id": 11,
+        "percentage": "3.52%"
+      },
+      "7": {
+        "item_id": 46,
+        "percentage": "3.52%"
+      }
+    }
+  }
+}
